@@ -47,10 +47,142 @@
     "type": "CULTURE G",
     "question": "Quelle est la 3ème vidéo la plus vue actuellement sur YouTube ?",
     "answers": [
-      "Baby Shark Dance",
       "Despacito",
+      "Baby Shark Dance",
       "Johny Johny Yes Papa",
       "Gangnam Style"
+    ],
+    "correct": 0
+  },
+  {
+    "type": "THÈME",
+    "question": "Thème de Maman - Quel est le plus grand animal vivant actuellement sur Terre ?",
+    "answers": [
+      "L'éléphant d'Afrique",
+      "Le Requin-Baleine",
+      "La Baleine Bleue",
+      "La Girafe"
+    ],
+    "correct": 2
+  },
+  {
+    "type": "CULTURE G",
+    "question": "Que veut dire PACS ?",
+    "answers": [
+      "Partie Civile de Solidarité",
+      "Parité au Conseil Supérieur ",
+      "Plan Autonome de Choix Stratégiques",
+      "Pacte Civil de Solidarité"
+    ],
+    "correct": 3
+  },
+  {
+    "type": "CULTURE G",
+    "question": "Comment s’appelle le café fictif de la série TV Friends ?",
+    "answers": [
+      "Central Perk",
+      "Chez José",
+      "Little Collins",
+      "Central Park"
+    ],
+    "correct": 0
+  },
+  {
+    "type": "THÈME",
+    "question": "Thème de Emma - Quelle marque de luxe possède un logo représentant deux lettres G entrelacées ?",
+    "answers": [
+      "Givenchy",
+      "Giorgio Armani",
+      "Goyard",
+      "Gucci"
+    ],
+    "correct": 3
+  },
+  {
+    "type": "CULTURE G",
+    "question": "Qui interprète Gandalf dans Le Seigneur des Anneaux ?",
+    "answers": [
+      "Pascal OP",
+      "Richard HARRIS",
+      "Ian MCKELLEN",
+      "Michael GAMBON"
+    ],
+    "correct": 2
+  },
+  {
+    "type": "CULTURE G",
+    "question": "Où est situé le désert d’Atacama ?",
+    "answers": [
+      "Chili",
+      "Argentine",
+      "Paraguay",
+      "Aucune réponse ne convient"
+    ],
+    "correct": 0
+  },
+  {
+    "type": "THÈME",
+    "question": "Thème de Lila - Quel ancien joueur du PSG était surnommé « El Matador » ?",
+    "answers": [
+      "Zlatan Ibrahimović",
+      "Pedro Miguel Pauleta",
+      "Ángel Di María",
+      "Edinson Cavani"
+    ],
+    "correct": 3
+  },
+  {
+    "type": "CULTURE G",
+    "question": "Quand a été créé l’O.N.U. ?",
+    "answers": [
+      "1914",
+      "1939",
+      "1945",
+      "1951"
+    ],
+    "correct": 2
+  },
+  {
+    "type": "CULTURE G",
+    "question": "Si le président démissionne ou décède en cours de mandat, par qui l’intérim est-il assuré ?",
+    "answers": [
+      "Le Premier Ministre",
+      "Le Ministre du Budget",
+      "Le Président de l'Assemblée",
+      "Le Président du Sénat"
+    ],
+    "correct": 3
+  },
+  {
+    "type": "THÈME",
+    "question": "",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correct": 0
+  },
+  {
+    "type": "CULTURE G",
+    "question": "Combien de jours une année bissextile compte-t-elle ?",
+    "answers": [
+      "364",
+      "365",
+      "366",
+      "367"
+    ],
+    "correct": 2
+  },
+  {
+    "type": "CULTURE G",
+    "question": "Le ”Nichon de Belle-Mère\" est l’autre nom de quel fromage ?",
+    "answers": [
+      "Du Saint-Marcelin",
+      "Du Gaperon",
+      "Du Chaource",
+      "Du Gruyère"
     ],
     "correct": 1
   },
@@ -67,146 +199,14 @@
   },
   {
     "type": "CULTURE G",
-    "question": "",
+    "question": "Quel Film réalisé par Franck DARABONT, sorti en 1999 est une Adaptation d’un roman de Stephen KING ?",
     "answers": [
-      "",
-      "",
-      "",
-      ""
+      "Les Évadés",
+      "La Ligne Verte",
+      "The Mist",
+      "Tchoupi à L’école"
     ],
-    "correct": 0
-  },
-  {
-    "type": "CULTURE G",
-    "question": "",
-    "answers": [
-      "",
-      "",
-      "",
-      ""
-    ],
-    "correct": 0
-  },
-  {
-    "type": "THÈME",
-    "question": "",
-    "answers": [
-      "",
-      "",
-      "",
-      ""
-    ],
-    "correct": 0
-  },
-  {
-    "type": "CULTURE G",
-    "question": "",
-    "answers": [
-      "",
-      "",
-      "",
-      ""
-    ],
-    "correct": 0
-  },
-  {
-    "type": "CULTURE G",
-    "question": "",
-    "answers": [
-      "",
-      "",
-      "",
-      ""
-    ],
-    "correct": 0
-  },
-  {
-    "type": "THÈME",
-    "question": "",
-    "answers": [
-      "",
-      "",
-      "",
-      ""
-    ],
-    "correct": 0
-  },
-  {
-    "type": "CULTURE G",
-    "question": "",
-    "answers": [
-      "",
-      "",
-      "",
-      ""
-    ],
-    "correct": 0
-  },
-  {
-    "type": "CULTURE G",
-    "question": "",
-    "answers": [
-      "",
-      "",
-      "",
-      ""
-    ],
-    "correct": 0
-  },
-  {
-    "type": "THÈME",
-    "question": "",
-    "answers": [
-      "",
-      "",
-      "",
-      ""
-    ],
-    "correct": 0
-  },
-  {
-    "type": "CULTURE G",
-    "question": "",
-    "answers": [
-      "",
-      "",
-      "",
-      ""
-    ],
-    "correct": 0
-  },
-  {
-    "type": "CULTURE G",
-    "question": "",
-    "answers": [
-      "",
-      "",
-      "",
-      ""
-    ],
-    "correct": 0
-  },
-  {
-    "type": "THÈME",
-    "question": "",
-    "answers": [
-      "",
-      "",
-      "",
-      ""
-    ],
-    "correct": 0
-  },
-  {
-    "type": "CULTURE G",
-    "question": "",
-    "answers": [
-      "",
-      "",
-      "",
-      ""
-    ],
-    "correct": 0
+    "correct": 1
   },
   {
     "type": "THÈME",
