@@ -34,14 +34,14 @@
   },
   {
     "type": "CULTURE G",
-    "question": "",
+    "question": "Combien de pays sont limitrophes de la Suisse ?",
     "answers": [
-      "",
-      "",
-      "",
-      ""
+      "2",
+      "4",
+      "5",
+      "7"
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "type": "CULTURE G",
