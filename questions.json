@@ -23,14 +23,14 @@
   },
   {
     "type": "THÈME",
-    "question": "",
+    "question": "Thème de Anaïs - Avant de rencontrer l’entremetteuse, quel cadeau Grand-Mère Fa a-t-elle offert à Mulan ?",
     "answers": [
-      "",
-      "",
-      "",
-      ""
+      "Un Chien",
+      "Un Criquet Porte-Bonheur",
+      "Du Rouge a Lèvres",
+      "Un Éventail"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "type": "CULTURE G",
