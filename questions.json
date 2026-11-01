@@ -45,14 +45,14 @@
   },
   {
     "type": "CULTURE G",
-    "question": "",
+    "question": "Quelle est la 3ème vidéo la plus vue actuellement sur YouTube ?",
     "answers": [
-      "",
-      "",
-      "",
-      ""
+      "Baby Shark Dance",
+      "Despacito",
+      "Johny Johny Yes Papa",
+      "Gangnam Style"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "type": "THÈME",
