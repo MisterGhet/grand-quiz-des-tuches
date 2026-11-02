@@ -210,12 +210,12 @@
   },
   {
     "type": "THÈME",
-    "question": "",
+    "question": "Thème de Lyam - Quel célèbre joueur de NBA est surnommé « King James » et détient le record du nombre total de points inscrits en saison régulière ?",
     "answers": [
-      "",
-      "",
-      "",
-      ""
+      "Lebron JAMES",
+      "Michael JORDAN",
+      "Kobe BRYANT",
+      "Stephen CURRY"
     ],
     "correct": 0
   }
