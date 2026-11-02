@@ -155,14 +155,14 @@
   },
   {
     "type": "THÈME",
-    "question": "",
+    "question": "Thème de Fanny - Dans le premier film, quel vêtement ridicule Mark Darcy porte-t-il lorsqu'il rencontre Bridget au Nouvel An ?",
     "answers": [
-      "",
-      "",
-      "",
-      ""
+      "Un Pyjama à Carreaux",
+      "Un Pull avec un Renne",
+      "Une Chemise à Fleurs",
+      "Un Gilet avec un Bonhomme de Neige"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "type": "CULTURE G",
