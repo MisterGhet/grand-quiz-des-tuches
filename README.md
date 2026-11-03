@@ -50,3 +50,21 @@ Déployer ce dossier comme **service Web Node.js** sur un hébergeur (par exempl
 6. Sur `/admin`, vérifier « Sauvegarde : GitHub connecté », saisir les questions, puis cliquer sur « Sauvegarder les 20 questions sur GitHub ».
 
 **Attention** : une modification du dépôt via la sauvegarde peut déclencher un nouveau déploiement automatique sur Render et donc déconnecter les joueurs. Préparer et sauvegarder les questions **avant** la soirée, pas pendant la partie. L'interface organisateur ne sauvegarde pas automatiquement les modifications en cours d'édition : cliquer sur le bouton de sauvegarde après chaque modification des questions. La sauvegarde GitHub peut déclencher un déploiement automatique ; il vaut mieux terminer les modifications avant le début de la partie.
+
+## Manche 2 — 14 thèmes, 7 joueurs
+
+- Organisateur : `/admin/manche2` (même `ADMIN_PIN` que la manche 1).
+- Écran public à partager sur Discord : `/screen/manche2`.
+- Manche 1 inchangée : `/admin`, `/screen`, `/play`.
+- Saisir les sept noms et les quinze questions/réponses de chacun des quatorze thèmes depuis l'organisateur.
+- Choisir un joueur et un thème, activer éventuellement sa Streak, puis démarrer le chronomètre de 90 secondes.
+- 1 point par bonne réponse, 2 points si Streak ; une seule Streak par joueur, consommée au démarrage.
+- Le chrono devient rouge à 15 secondes et les réponses/corrections restent accessibles après 0.
+- À la fin, cliquer sur « Terminer le passage » puis « Valider le passage » pour griser le thème.
+- Un historique permet de corriger après coup le nombre de bonnes réponses d'un passage validé.
+
+### Sauvegarde
+La manche 2 est sauvegardée dans `manche2.json` localement et, **si `GITHUB_TOKEN` et `GITHUB_REPO` sont configurés**, dans le fichier `manche2.json` du dépôt GitHub. **Sur Render, le disque local peut être effacé lors des redéploiements : pour une conservation durable, configurez impérativement `GITHUB_TOKEN` avec droits d'écriture sur le dépôt et `GITHUB_REPO`.** Le statut apparaît dans l'organisateur. Les données ne doivent pas être considérées comme sauvegardées durablement si GitHub n'est pas connecté. Ne jamais publier le jeton dans le dépôt.
+
+### Important
+Les écrans publics n'exposent ni les questions ni les réponses. Le système de synchronisation fonctionne par interrogation périodique du serveur (environ une seconde). La manche 2 est indépendante de la manche 1.
