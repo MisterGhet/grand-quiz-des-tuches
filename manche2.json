@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Joueur 1",
-      "streakUsed": true
+      "streakUsed": false
     },
     {
       "id": 2,
@@ -40,7 +40,7 @@
     {
       "id": 0,
       "name": "Animaux et nature",
-      "used": true,
+      "used": false,
       "questions": [
         {
           "question": "",
@@ -308,7 +308,7 @@
     {
       "id": 4,
       "name": "Cinéma",
-      "used": true,
+      "used": false,
       "questions": [
         {
           "question": "",
@@ -983,23 +983,6 @@
   "startedAt": null,
   "remaining": 90,
   "answers": [],
-  "history": [
-    {
-      "player": 1,
-      "theme": 0,
-      "correct": 11,
-      "streak": false,
-      "points": 11,
-      "at": "2026-11-03T22:48:02.534Z"
-    },
-    {
-      "player": 1,
-      "theme": 4,
-      "correct": 5,
-      "streak": true,
-      "points": 10,
-      "at": "2026-11-03T22:49:33.825Z"
-    }
-  ],
-  "version": 35
+  "history": [],
+  "version": 1
 }
