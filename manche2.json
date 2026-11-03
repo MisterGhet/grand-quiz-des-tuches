@@ -308,7 +308,7 @@
     {
       "id": 4,
       "name": "Cinéma",
-      "used": false,
+      "used": true,
       "questions": [
         {
           "question": "",
@@ -976,21 +976,13 @@
       ]
     }
   ],
-  "phase": "finished",
-  "theme": 4,
-  "player": 1,
-  "streak": true,
+  "phase": "grid",
+  "theme": null,
+  "player": null,
+  "streak": false,
   "startedAt": null,
-  "remaining": 32,
-  "answers": [
-    true,
-    true,
-    true,
-    false,
-    false,
-    true,
-    true
-  ],
+  "remaining": 90,
+  "answers": [],
   "history": [
     {
       "player": 1,
@@ -999,7 +991,15 @@
       "streak": false,
       "points": 11,
       "at": "2026-11-03T22:48:02.534Z"
+    },
+    {
+      "player": 1,
+      "theme": 4,
+      "correct": 5,
+      "streak": true,
+      "points": 10,
+      "at": "2026-11-03T22:49:33.825Z"
     }
   ],
-  "version": 34
+  "version": 35
 }
