@@ -13,7 +13,7 @@
     {
       "id": 3,
       "name": "Lyam",
-      "streakUsed": false
+      "streakUsed": true
     },
     {
       "id": 4,
@@ -976,11 +976,11 @@
       ]
     }
   ],
-  "phase": "preview",
+  "phase": "running",
   "theme": 3,
   "player": 3,
   "streak": true,
-  "startedAt": null,
+  "startedAt": 1793745520175,
   "remaining": 90,
   "answers": [],
   "history": [
@@ -1001,5 +1001,5 @@
       "at": "2026-11-03T22:38:23.731Z"
     }
   ],
-  "version": 48
+  "version": 49
 }
