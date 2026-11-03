@@ -979,10 +979,10 @@
   "phase": "preview",
   "theme": 4,
   "player": 1,
-  "streak": true,
+  "streak": false,
   "startedAt": null,
   "remaining": 90,
   "answers": [],
   "history": [],
-  "version": 3
+  "version": 4
 }
