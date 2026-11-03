@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Joueur 1",
-      "streakUsed": false
+      "streakUsed": true
     },
     {
       "id": 2,
@@ -976,11 +976,11 @@
       ]
     }
   ],
-  "phase": "preview",
+  "phase": "running",
   "theme": 4,
   "player": 1,
   "streak": true,
-  "startedAt": null,
+  "startedAt": 1793746114000,
   "remaining": 90,
   "answers": [],
   "history": [
@@ -993,5 +993,5 @@
       "at": "2026-11-03T22:48:02.534Z"
     }
   ],
-  "version": 25
+  "version": 26
 }
