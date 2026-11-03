@@ -976,13 +976,13 @@
       ]
     }
   ],
-  "phase": "grid",
-  "theme": null,
-  "player": null,
+  "phase": "preview",
+  "theme": 0,
+  "player": 1,
   "streak": false,
   "startedAt": null,
   "remaining": 90,
   "answers": [],
   "history": [],
-  "version": 1
+  "version": 2
 }
