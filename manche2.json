@@ -984,8 +984,9 @@
   "remaining": 90,
   "answers": [
     true,
+    true,
     true
   ],
   "history": [],
-  "version": 7
+  "version": 8
 }
