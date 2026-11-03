@@ -983,6 +983,7 @@
   "startedAt": 1793746114000,
   "remaining": 90,
   "answers": [
+    true,
     true
   ],
   "history": [
@@ -995,5 +996,5 @@
       "at": "2026-11-03T22:48:02.534Z"
     }
   ],
-  "version": 27
+  "version": 28
 }
