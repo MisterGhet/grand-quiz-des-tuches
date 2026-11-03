@@ -983,8 +983,9 @@
   "startedAt": 1793745267125,
   "remaining": 90,
   "answers": [
+    true,
     true
   ],
   "history": [],
-  "version": 6
+  "version": 7
 }
