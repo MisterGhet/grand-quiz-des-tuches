@@ -107,7 +107,7 @@
     {
       "id": 1,
       "name": "Disney & Pixar",
-      "used": false,
+      "used": true,
       "questions": [
         {
           "question": "",
@@ -976,29 +976,13 @@
       ]
     }
   ],
-  "phase": "finished",
-  "theme": 1,
-  "player": 2,
-  "streak": true,
+  "phase": "grid",
+  "theme": null,
+  "player": null,
+  "streak": false,
   "startedAt": null,
-  "remaining": 12,
-  "answers": [
-    true,
-    false,
-    true,
-    true,
-    true,
-    true,
-    false,
-    true,
-    false,
-    true,
-    false,
-    true,
-    false,
-    true,
-    true
-  ],
+  "remaining": 90,
+  "answers": [],
   "history": [
     {
       "player": 1,
@@ -1007,7 +991,15 @@
       "streak": false,
       "points": 10,
       "at": "2026-11-03T22:35:27.341Z"
+    },
+    {
+      "player": 2,
+      "theme": 1,
+      "correct": 10,
+      "streak": true,
+      "points": 20,
+      "at": "2026-11-03T22:38:23.731Z"
     }
   ],
-  "version": 44
+  "version": 45
 }
