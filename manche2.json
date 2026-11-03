@@ -976,7 +976,7 @@
       ]
     }
   ],
-  "phase": "paused",
+  "phase": "finished",
   "theme": 1,
   "player": 2,
   "streak": true,
@@ -1009,5 +1009,5 @@
       "at": "2026-11-03T22:35:27.341Z"
     }
   ],
-  "version": 43
+  "version": 44
 }
