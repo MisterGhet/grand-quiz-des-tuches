@@ -985,8 +985,9 @@
   "answers": [
     true,
     false,
+    true,
     true
   ],
   "history": [],
-  "version": 6
+  "version": 7
 }
