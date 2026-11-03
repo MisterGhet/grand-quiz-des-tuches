@@ -979,7 +979,7 @@
   "phase": "preview",
   "theme": 4,
   "player": 1,
-  "streak": false,
+  "streak": true,
   "startedAt": null,
   "remaining": 90,
   "answers": [],
@@ -993,5 +993,5 @@
       "at": "2026-11-03T22:48:02.534Z"
     }
   ],
-  "version": 24
+  "version": 25
 }
