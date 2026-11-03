@@ -2,18 +2,18 @@
   "players": [
     {
       "id": 1,
-      "name": "Anais",
+      "name": "Joueur 1",
       "streakUsed": false
     },
     {
       "id": 2,
-      "name": "Fanny",
-      "streakUsed": true
+      "name": "Joueur 2",
+      "streakUsed": false
     },
     {
       "id": 3,
-      "name": "Lyam",
-      "streakUsed": true
+      "name": "Joueur 3",
+      "streakUsed": false
     },
     {
       "id": 4,
@@ -107,7 +107,7 @@
     {
       "id": 1,
       "name": "Disney & Pixar",
-      "used": true,
+      "used": false,
       "questions": [
         {
           "question": "",
@@ -241,7 +241,7 @@
     {
       "id": 3,
       "name": "Sport",
-      "used": true,
+      "used": false,
       "questions": [
         {
           "question": "",
@@ -308,7 +308,7 @@
     {
       "id": 4,
       "name": "Cinéma",
-      "used": true,
+      "used": false,
       "questions": [
         {
           "question": "",
@@ -983,31 +983,6 @@
   "startedAt": null,
   "remaining": 90,
   "answers": [],
-  "history": [
-    {
-      "player": 1,
-      "theme": 4,
-      "correct": 10,
-      "streak": false,
-      "points": 10,
-      "at": "2026-11-03T22:35:27.341Z"
-    },
-    {
-      "player": 2,
-      "theme": 1,
-      "correct": 10,
-      "streak": true,
-      "points": 20,
-      "at": "2026-11-03T22:38:23.731Z"
-    },
-    {
-      "player": 3,
-      "theme": 3,
-      "correct": 9,
-      "streak": true,
-      "points": 18,
-      "at": "2026-11-03T22:39:28.375Z"
-    }
-  ],
-  "version": 71
+  "history": [],
+  "version": 1
 }
