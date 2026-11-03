@@ -8,7 +8,7 @@
     {
       "id": 2,
       "name": "Fanny",
-      "streakUsed": false
+      "streakUsed": true
     },
     {
       "id": 3,
@@ -976,13 +976,15 @@
       ]
     }
   ],
-  "phase": "preview",
+  "phase": "running",
   "theme": 1,
   "player": 2,
   "streak": true,
-  "startedAt": null,
+  "startedAt": 1793745350224,
   "remaining": 90,
-  "answers": [],
+  "answers": [
+    true
+  ],
   "history": [
     {
       "player": 1,
@@ -993,5 +995,5 @@
       "at": "2026-11-03T22:35:27.341Z"
     }
   ],
-  "version": 26
+  "version": 28
 }
