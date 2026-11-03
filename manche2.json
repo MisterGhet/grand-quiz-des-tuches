@@ -985,7 +985,8 @@
   "answers": [
     true,
     true,
-    true
+    true,
+    false
   ],
   "history": [
     {
@@ -997,5 +998,5 @@
       "at": "2026-11-03T22:48:02.534Z"
     }
   ],
-  "version": 29
+  "version": 30
 }
