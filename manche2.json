@@ -7,7 +7,7 @@
     },
     {
       "id": 2,
-      "name": "Joueur 2",
+      "name": "Fanny",
       "streakUsed": false
     },
     {
@@ -993,5 +993,5 @@
       "at": "2026-11-03T22:35:27.341Z"
     }
   ],
-  "version": 23
+  "version": 24
 }
