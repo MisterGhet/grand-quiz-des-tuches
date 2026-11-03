@@ -241,7 +241,7 @@
     {
       "id": 3,
       "name": "Sport",
-      "used": false,
+      "used": true,
       "questions": [
         {
           "question": "",
@@ -976,28 +976,13 @@
       ]
     }
   ],
-  "phase": "finished",
-  "theme": 3,
-  "player": 3,
-  "streak": true,
+  "phase": "grid",
+  "theme": null,
+  "player": null,
+  "streak": false,
   "startedAt": null,
-  "remaining": 43,
-  "answers": [
-    true,
-    false,
-    true,
-    true,
-    true,
-    true,
-    true,
-    true,
-    false,
-    false,
-    false,
-    true,
-    false,
-    true
-  ],
+  "remaining": 90,
+  "answers": [],
   "history": [
     {
       "player": 1,
@@ -1014,7 +999,15 @@
       "streak": true,
       "points": 20,
       "at": "2026-11-03T22:38:23.731Z"
+    },
+    {
+      "player": 3,
+      "theme": 3,
+      "correct": 9,
+      "streak": true,
+      "points": 18,
+      "at": "2026-11-03T22:39:28.375Z"
     }
   ],
-  "version": 68
+  "version": 69
 }
