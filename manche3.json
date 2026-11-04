@@ -237,8 +237,8 @@
     },
     {
       "id": 6,
-      "name": "Joueur 6",
-      "theme": "Thème 6",
+      "name": "Nicolas",
+      "theme": "La Formule 1 Depuis les Années 2000",
       "questions": [
         {
           "question": "Q6-0",
@@ -340,5 +340,5 @@
   "turn": 0,
   "scores": {},
   "history": [],
-  "version": 20
+  "version": 21
 }
