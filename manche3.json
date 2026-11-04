@@ -241,44 +241,44 @@
       "theme": "La Formule 1 Depuis les Années 2000",
       "questions": [
         {
-          "question": "Q6-0",
-          "answer": "R6-0"
+          "question": "Quel pilote a remporté le championnat du monde de Formule 1 en 2009 avec l'écurie Brawn GP ?",
+          "answer": "Jenson Button (Brawn GP a remporté les titres pilotes et constructeurs en 2009)"
         },
         {
-          "question": "Q6-1",
-          "answer": "R6-1"
+          "question": "Quel pilote espagnol a remporté deux titres mondiaux consécutifs avec Renault en 2005 et 2006 ?",
+          "answer": "Fernando Alonso (Il a mis fin à la domination de Ferrari et Schumacher)"
         },
         {
-          "question": "Q6-2",
-          "answer": "R6-2"
+          "question": "Quel pilote britannique a remporté son premier titre de champion du monde en 2025 avec McLaren ?",
+          "answer": "Lando Norris (Il a remporté le championnat 2025 devant Max Verstappen)"
         },
         {
-          "question": "Q6-3",
-          "answer": "R6-3"
+          "question": "Quel pilote italien de Mercedes est devenu, en 2026, le plus jeune champion du monde de l'histoire de la Formule 1 ?",
+          "answer": "Andrea Kimi Antonelli (Il a été sacré le 1er novembre 2026, au Grand Prix du Mexique, à 20 ans)"
         },
         {
-          "question": "Q6-4",
-          "answer": "R6-4"
+          "question": "Quelle nouvelle écurie américaine a fait ses débuts en Formule 1 lors de la saison 2026 ?",
+          "answer": "Cadillac (Elle est devenue la onzième écurie du plateau 2026)"
         },
         {
-          "question": "Q6-5",
-          "answer": "R6-5"
+          "question": "Lors du Grand Prix de Bahreïn 2020, quel pilote a survécu à un terrible accident dans lequel sa monoplace s'est coupée en deux et a pris feu ?",
+          "answer": "Romain Grosjean (Il est resté 27 secondes dans les flammes)"
         },
         {
-          "question": "Q6-6",
-          "answer": "R6-6"
+          "question": "Lors du Grand Prix d'Italie 2021, quels sont les deux pilotes qui se sont percutés, laissant une Red Bull perchée sur une Mercedes ?",
+          "answer": "Max Verstappen et Lewis Hamilton (Le halo a protégé la tête de Lewis Hamilton)"
         },
         {
-          "question": "Q6-7",
-          "answer": "R6-7"
+          "question": "Lors du Grand Prix d'Australie 2022, quel pilote a reçu une amende de 5 000 € pour avoir roulé sur le circuit avec un scooter ?",
+          "answer": "Sebastian Vettel (Il avait emprunté le scooter d'un commissaire)"
         },
         {
-          "question": "Q6-8",
-          "answer": "R6-8"
+          "question": "Lors du Grand Prix d’Azerbaïdjan 2018, deux coéquipiers se sont percutés, provoquant leur double abandon. De quelle écurie s’agissait-il ?",
+          "answer": "Red Bull Racing"
         },
         {
-          "question": "Q6-9",
-          "answer": "R6-9"
+          "question": "Lors du Grand Prix de Malaisie 2013, quel pilote a reçu l'ordre « Multi 21 » de son écurie, avant d'être dépassé par son propre coéquipier ?",
+          "answer": "Mark Webber (Vettel a désobéi aux consignes d'équipe et volé la victoire à son coéquipier)"
         }
       ]
     },
@@ -340,5 +340,5 @@
   "turn": 0,
   "scores": {},
   "history": [],
-  "version": 22
+  "version": 23
 }
