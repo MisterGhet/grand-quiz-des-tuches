@@ -2,8 +2,8 @@
   "players": [
     {
       "id": 1,
-      "name": "Joueur 1",
-      "theme": "Thème 1",
+      "name": "Anaïs",
+      "theme": "Mulan",
       "questions": [
         {
           "question": "Comment s'appelle le cheval de Mulan ?",
@@ -340,5 +340,5 @@
   "turn": 0,
   "scores": {},
   "history": [],
-  "version": 2
+  "version": 3
 }
