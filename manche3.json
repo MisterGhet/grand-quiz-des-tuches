@@ -444,7 +444,7 @@
       "theme": "Le Règne Animal",
       "question": "Quel petit oiseau est capable de voler en marche arrière de manière soutenue ?",
       "answer": "Le Colibri",
-      "used": false
+      "used": true
     },
     {
       "playerId": 5,
@@ -727,17 +727,26 @@
       "used": false
     }
   ],
-  "phase": "question",
+  "phase": "grid",
   "colorsVisible": false,
-  "selected": 12,
-  "revealed": true,
-  "turn": 1,
+  "selected": null,
+  "revealed": false,
+  "turn": 3,
   "scores": {
-    "1": 0,
+    "1": 2,
     "2": 0,
     "3": 0,
     "4": 0
   },
-  "history": [],
-  "version": 34
+  "history": [
+    {
+      "number": 13,
+      "playerId": 1,
+      "ownerId": 2,
+      "color": "vert",
+      "correct": true,
+      "points": 2
+    }
+  ],
+  "version": 35
 }
