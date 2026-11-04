@@ -284,8 +284,8 @@
     },
     {
       "id": 7,
-      "name": "Joueur 7",
-      "theme": "Thème 7",
+      "name": "Lyam",
+      "theme": "Les Records en NBA",
       "questions": [
         {
           "question": "Q7-0",
@@ -340,5 +340,5 @@
   "turn": 0,
   "scores": {},
   "history": [],
-  "version": 23
+  "version": 24
 }
