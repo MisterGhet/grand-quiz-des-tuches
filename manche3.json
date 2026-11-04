@@ -6,44 +6,44 @@
       "theme": "Thème 1",
       "questions": [
         {
-          "question": "Q1-0",
-          "answer": "R1-0"
+          "question": "Comment s'appelle le cheval de Mulan ?",
+          "answer": "Khan"
         },
         {
-          "question": "Q1-1",
-          "answer": "R1-1"
+          "question": "De quelle couleur est le parapluie de Mulan lorsqu'elle se rend chez l'entremetteuse au début du film ?",
+          "answer": "Bleu Clair"
         },
         {
-          "question": "Q1-2",
-          "answer": "R1-2"
+          "question": "Pourquoi Mulan part-elle à la guerre ?",
+          "answer": "Pour prendre la place de son père dans l'armée (car il est trop âgé et blessé pour combattre)"
         },
         {
-          "question": "Q1-3",
-          "answer": "R1-3"
+          "question": "Contre quelle armée le peuple de Mulan se bat-il ?",
+          "answer": "Les Huns"
         },
         {
-          "question": "Q1-4",
-          "answer": "R1-4"
+          "question": "Qui sont les trois camarades de Mulan dans l'armée ?",
+          "answer": "Yao, Ling et Chien-Po"
         },
         {
-          "question": "Q1-5",
-          "answer": "R1-5"
+          "question": "Qui prête sa voix française à Mushu dans le film Mulan ?",
+          "answer": "José Garcia"
         },
         {
-          "question": "Q1-6",
-          "answer": "R1-6"
+          "question": "En quelle année est sorti le film d’animation Mulan de Disney ?",
+          "answer": "1998"
         },
         {
-          "question": "Q1-7",
-          "answer": "R1-7"
+          "question": "Quel est le nom du faucon qui accompagne Shan Yu ?",
+          "answer": "Hayabusa"
         },
         {
-          "question": "Q1-8",
-          "answer": "R1-8"
+          "question": "Dans la chanson « Comme un homme » de Mulan, complétez les paroles : « Vous n'êtes qu'une bande de femmelettes… ?",
+          "answer": "Mais envers et contre tout"
         },
         {
-          "question": "Q1-9",
-          "answer": "R1-9"
+          "question": "Dans la chanson “Réflexion”, lorsque Mulan se trouve dans le temple familial devant le mur représentant l’arbre généalogique de sa famille, que représentent réellement les inscriptions chinoises visibles sur ce mur ?",
+          "answer": "Elles représentent les noms des personnes ayant travaillé sur le film"
         }
       ]
     },
@@ -340,5 +340,5 @@
   "turn": 0,
   "scores": {},
   "history": [],
-  "version": 1
+  "version": 2
 }
