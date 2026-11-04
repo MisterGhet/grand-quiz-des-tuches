@@ -96,8 +96,8 @@
     },
     {
       "id": 3,
-      "name": "Joueur 3",
-      "theme": "Thème 3",
+      "name": "Emma",
+      "theme": "Les Marques de Luxe",
       "questions": [
         {
           "question": "Q3-0",
@@ -340,5 +340,5 @@
   "turn": 0,
   "scores": {},
   "history": [],
-  "version": 10
+  "version": 11
 }
