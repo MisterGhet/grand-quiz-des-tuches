@@ -288,44 +288,44 @@
       "theme": "Les Records en NBA",
       "questions": [
         {
-          "question": "Q7-0",
-          "answer": "R7-0"
+          "question": "Quel joueur détient le record du plus grand nombre de points inscrits en un seul match NBA ?",
+          "answer": "Wilt Chamberlain avec 100 points (Il a réalisé cet exploit en 1962)"
         },
         {
-          "question": "Q7-1",
-          "answer": "R7-1"
+          "question": "Quel joueur détient le record du plus grand nombre de tirs à trois points réussis en carrière en NBA ?",
+          "answer": "Stephen Curry (Il a dépassé Ray Allen en 2021)"
         },
         {
-          "question": "Q7-2",
-          "answer": "R7-2"
+          "question": "Quel joueur des Lakers a inscrit 81 points lors d'un match contre Toronto en 2006 ?",
+          "answer": "Kobe Bryant (Il s'agissait alors du deuxième meilleur total historique)"
         },
         {
-          "question": "Q7-3",
-          "answer": "R7-3"
+          "question": "Quel joueur détient le record de 11 titres de champion NBA remportés en tant que joueur ?",
+          "answer": "Bill Russell (Il a remporté tous ses titres avec Boston)"
         },
         {
-          "question": "Q7-4",
-          "answer": "R7-4"
+          "question": "Quel joueur australien est devenu, en 2022, le plus jeune auteur d'un triple-double en NBA ?",
+          "answer": "Josh Giddey (Il n'avait que 19 ans)"
         },
         {
-          "question": "Q7-5",
-          "answer": "R7-5"
+          "question": "Quel joueur détient le record de 30 passes décisives lors d'un seul match NBA ?",
+          "answer": "Scott Skiles (Il a réalisé cette performance avec Orlando en 1990)"
         },
         {
-          "question": "Q7-6",
-          "answer": "R7-6"
+          "question": "Quel joueur détient le record de contres réalisés en un seul match NBA ?",
+          "answer": "Elmore Smith avec 17 contres (Il a établi ce record avec les Lakers en 1973)"
         },
         {
-          "question": "Q7-7",
-          "answer": "R7-7"
+          "question": "Quels sont les deux joueurs qui se partagent le record de 11 interceptions en un match NBA ?",
+          "answer": "Larry Kenon et Kendall Gill (Ils ont réalisé cet exploit en 1976 et 1999)"
         },
         {
-          "question": "Q7-8",
-          "answer": "R7-8"
+          "question": "Quel joueur français détient le record du plus grand nombre de titres de champion NBA ?",
+          "answer": "Tony Parker, avec 4 titres (Il a remporté ses quatre titres avec les San Antonio Spurs)"
         },
         {
-          "question": "Q7-9",
-          "answer": "R7-9"
+          "question": "Quel joueur détient le record du plus grand nombre de contres réalisés lors de sa première saison en NBA, avec 254 contres en 2023-2024 ?",
+          "answer": "Victor Wembanyama (Il a terminé meilleur contreur de NBA dès sa première saison)"
         }
       ]
     }
@@ -340,5 +340,5 @@
   "turn": 0,
   "scores": {},
   "history": [],
-  "version": 26
+  "version": 27
 }
