@@ -49,8 +49,8 @@
     },
     {
       "id": 2,
-      "name": "Joueur 2",
-      "theme": "Thème 2",
+      "name": "Maman",
+      "theme": "Le Règne Animal",
       "questions": [
         {
           "question": "Q2-0",
@@ -340,5 +340,5 @@
   "turn": 0,
   "scores": {},
   "history": [],
-  "version": 3
+  "version": 4
 }
