@@ -194,44 +194,44 @@
       "theme": "La Saga Bridget Jones",
       "questions": [
         {
-          "question": "Q5-0",
-          "answer": "R5-0"
+          "question": "Quel acteur britannique incarne Daniel Cleaver, le patron séducteur de Bridget dans le premier film ?",
+          "answer": "Hugh Grant"
         },
         {
-          "question": "Q5-1",
-          "answer": "R5-1"
+          "question": "De quelle couleur est la soupe que Bridget prépare accidentellement pour son dîner d'anniversaire dans le premier film ?",
+          "answer": "Bleue (Elle utilise de la ficelle bleue pour attacher ses poireaux)"
         },
         {
-          "question": "Q5-2",
-          "answer": "R5-2"
+          "question": "Dans Bridget Jones : L'Âge de raison (deuxième film), dans quel pays Bridget se retrouve-t-elle emprisonnée ?",
+          "answer": "La Thaïlande (Elle est arrêtée à cause de drogue retrouvée dans ses bagages)"
         },
         {
-          "question": "Q5-3",
-          "answer": "R5-3"
+          "question": "Dans Bridget Jones Baby (troisième film), quel est le prénom de l'Américain qui pourrait être le père du bébé de Bridget ?",
+          "answer": "Jack (Jack Qwant est interprété par Patrick Dempsey)"
         },
         {
-          "question": "Q5-4",
-          "answer": "R5-4"
+          "question": "Quel est le prénom du fils de Bridget Jones et Mark Darcy ?",
+          "answer": "Billy ou William (On le retrouve dans le quatrième film aux côtés de sa petite sœur Mabel)"
         },
         {
-          "question": "Q5-5",
-          "answer": "R5-5"
+          "question": "Dans Bridget Jones : Folle de lui (quatrième film), dans quel pays Mark Darcy est-il mort lors d'une mission humanitaire ?",
+          "answer": "Le Soudan (Ce drame a eu lieu quatre ans avant les événements du film)"
         },
         {
-          "question": "Q5-6",
-          "answer": "R5-6"
+          "question": "Quelle chanson de Madonna Bridget apprend-elle à chanter aux autres détenues pendant son séjour en prison ?",
+          "answer": "Like a Virgin"
         },
         {
-          "question": "Q5-7",
-          "answer": "R5-7"
+          "question": "Dans Bridget Jones Baby (troisième film), quel célèbre chanteur britannique apparaît sur scène lors du festival auquel Bridget participe ?",
+          "answer": "Ed Sheeran"
         },
         {
-          "question": "Q5-8",
-          "answer": "R5-8"
+          "question": "Quel métier Bridget Jones décide-t-elle d'exercer après avoir quitté son poste dans la maison d'édition de Daniel Cleaver ?",
+          "answer": "Journaliste / Reporter à la télévision"
         },
         {
-          "question": "Q5-9",
-          "answer": "R5-9"
+          "question": "Dans Bridget Jones : L'Âge de raison (deuxième film), de qui Rebecca est-elle réellement amoureuse ?",
+          "answer": "De Bridget Jones elle-même (Rebecca finit par lui avouer ses sentiments et l'embrasse, ce qui dissipe le malentendu)"
         }
       ]
     },
@@ -340,5 +340,5 @@
   "turn": 0,
   "scores": {},
   "history": [],
-  "version": 17
+  "version": 18
 }
