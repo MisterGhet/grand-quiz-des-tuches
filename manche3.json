@@ -190,8 +190,8 @@
     },
     {
       "id": 5,
-      "name": "Joueur 5",
-      "theme": "Thème 5",
+      "name": "Fanny",
+      "theme": "La Saga Bridget Jones",
       "questions": [
         {
           "question": "Q5-0",
@@ -340,5 +340,5 @@
   "turn": 0,
   "scores": {},
   "history": [],
-  "version": 15
+  "version": 16
 }
