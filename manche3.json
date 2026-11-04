@@ -100,44 +100,44 @@
       "theme": "Les Marques de Luxe",
       "questions": [
         {
-          "question": "Q3-0",
-          "answer": "R3-0"
+          "question": "Quelle marque de luxe française est célèbre pour son parfum N°5 ?",
+          "answer": "Chanel"
         },
         {
-          "question": "Q3-1",
-          "answer": "R3-1"
+          "question": "De quel pays est originaire la marque de luxe Prada ?",
+          "answer": "L’Italie"
         },
         {
-          "question": "Q3-2",
-          "answer": "R3-2"
+          "question": "Quelle marque de luxe a créé le célèbre sac Birkin ?",
+          "answer": "Hermès"
         },
         {
-          "question": "Q3-3",
-          "answer": "R3-3"
+          "question": "Quelle marque de luxe a créé en 1947 un sac devenu iconique grâce à sa poignée en bambou ?",
+          "answer": "Gucci"
         },
         {
-          "question": "Q3-4",
-          "answer": "R3-4"
+          "question": "Le sac Chanel 2.55 porte ce nom en référence à quel mois et quelle année de création ?",
+          "answer": "Février 1955"
         },
         {
-          "question": "Q3-5",
-          "answer": "R3-5"
+          "question": "Quelle maison de luxe française a créé le sac iconique Le Pliage ?",
+          "answer": "Longchamp (Le Pliage a été créé en 1993 et s'inspire de l'art japonais de l'origami)"
         },
         {
-          "question": "Q3-6",
-          "answer": "R3-6"
+          "question": "Quelle marque de luxe a commencé son activité en fabriquant des malles de voyage ?",
+          "answer": "Louis Vuitton"
         },
         {
-          "question": "Q3-7",
-          "answer": "R3-7"
+          "question": "Quelle marque de luxe a créé les célèbres chaussures Tabi, reconnaissables à leur bout séparant le gros orteil des autres ?",
+          "answer": "Maison Margiela"
         },
         {
-          "question": "Q3-8",
-          "answer": "R3-8"
+          "question": "Quelle maison de luxe a créé le bracelet Love, célèbre pour ses motifs de vis et son système de fermeture avec un tournevis ?",
+          "answer": "Cartier (Le bracelet Love a été créé par Aldo Cipullo en 1969)"
         },
         {
-          "question": "Q3-9",
-          "answer": "R3-9"
+          "question": "Quelle maison de luxe américaine possède une nuance de bleu si emblématique qu'elle est devenue une couleur officiellement enregistrée sous son nom ?",
+          "answer": "Tiffany & Co (Le célèbre « Tiffany Blue » est une couleur protégée en tant que marque pour certains usages commerciaux. Elle est notamment associée aux petites boîtes bleues de la maison depuis le XIXe siècle)"
         }
       ]
     },
@@ -340,5 +340,5 @@
   "turn": 0,
   "scores": {},
   "history": [],
-  "version": 11
+  "version": 12
 }
