@@ -147,44 +147,44 @@
       "theme": "Thème 4",
       "questions": [
         {
-          "question": "Q4-0",
-          "answer": "R4-0"
+          "question": "Quel ancien attaquant français du PSG est surnommé « KM7 » ?",
+          "answer": "Kylian Mbappé"
         },
         {
-          "question": "Q4-1",
-          "answer": "R4-1"
+          "question": "Quel joueur brésilien du PSG était célèbre pour ses dribbles, son sourire et son numéro 10 avant de rejoindre le FC Barcelone en 2003 ?",
+          "answer": "Ronaldinho"
         },
         {
-          "question": "Q4-2",
-          "answer": "R4-2"
+          "question": "Quel ancien gardien italien, champion du monde en 2006, a joué au PSG pendant la saison 2018-2019 ?",
+          "answer": "Gianluigi Buffon"
         },
         {
-          "question": "Q4-3",
-          "answer": "R4-3"
+          "question": "Quel ancien attaquant portugais du PSG était surnommé « l'Aigle des Açores » ?",
+          "answer": "Pedro Miguel Pauleta"
         },
         {
-          "question": "Q4-4",
-          "answer": "R4-4"
+          "question": "Quel ancien joueur du PSG, devenu Ballon d'Or en 1995, était originaire du Liberia ?",
+          "answer": "George Weah"
         },
         {
-          "question": "Q4-5",
-          "answer": "R4-5"
+          "question": "Quel défenseur brésilien, arrivé en 2013, est devenu le joueur ayant disputé le plus de matchs dans l'histoire du PSG ?",
+          "answer": "Marquinhos"
         },
         {
-          "question": "Q4-6",
-          "answer": "R4-6"
+          "question": "Quel joueur du PSG a inscrit un doublé lors de la finale de la Ligue des champions 2025 contre l'Inter Milan ?",
+          "answer": "Désiré Doué"
         },
         {
-          "question": "Q4-7",
-          "answer": "R4-7"
+          "question": "Quel joueur du PSG a terminé troisième du classement du Ballon d'Or 2025 ?",
+          "answer": "Vitinha"
         },
         {
-          "question": "Q4-8",
-          "answer": "R4-8"
+          "question": "Quel joueur géorgien, surnommé « Kvaradona » lors de son passage à Naples, a rejoint le PSG en janvier 2025 ?",
+          "answer": "Khvicha Kvaratskhelia"
         },
         {
-          "question": "Q4-9",
-          "answer": "R4-9"
+          "question": "Quel joueur détient le record du plus grand nombre de buts inscrits en une seule saison dans l'histoire du PSG, toutes compétitions officielles confondues ?",
+          "answer": "Zlatan Ibrahimović (50 buts lors de la saison 2015-2016)"
         }
       ]
     },
@@ -340,5 +340,5 @@
   "turn": 0,
   "scores": {},
   "history": [],
-  "version": 12
+  "version": 13
 }
