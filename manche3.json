@@ -388,7 +388,7 @@
       "theme": "Thème 1",
       "question": "Q1-6",
       "answer": "R1-6",
-      "used": false
+      "used": true
     },
     {
       "playerId": 3,
@@ -727,17 +727,26 @@
       "used": false
     }
   ],
-  "phase": "question",
+  "phase": "grid",
   "colorsVisible": false,
-  "selected": 5,
-  "revealed": true,
-  "turn": 1,
+  "selected": null,
+  "revealed": false,
+  "turn": 2,
   "scores": {
-    "1": 0,
+    "1": 3,
     "2": 0,
     "3": 0,
     "4": 0
   },
-  "history": [],
-  "version": 31
+  "history": [
+    {
+      "number": 6,
+      "playerId": 1,
+      "ownerId": 1,
+      "color": "rouge",
+      "correct": true,
+      "points": 3
+    }
+  ],
+  "version": 32
 }
