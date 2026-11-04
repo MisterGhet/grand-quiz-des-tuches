@@ -89,8 +89,8 @@
           "answer": "R2-8"
         },
         {
-          "question": "Q2-9",
-          "answer": "R2-9"
+          "question": "Quel animal peut dormir debout grâce à un mécanisme qui verrouille ses articulations ?",
+          "answer": "Le Cheval"
         }
       ]
     },
@@ -340,5 +340,5 @@
   "turn": 0,
   "scores": {},
   "history": [],
-  "version": 6
+  "version": 7
 }
