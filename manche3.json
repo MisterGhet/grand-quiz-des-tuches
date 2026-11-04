@@ -1,0 +1,743 @@
+{
+  "players": [
+    {
+      "id": 1,
+      "name": "Joueur 1",
+      "theme": "Thème 1",
+      "questions": [
+        {
+          "question": "Q1-0",
+          "answer": "R1-0"
+        },
+        {
+          "question": "Q1-1",
+          "answer": "R1-1"
+        },
+        {
+          "question": "Q1-2",
+          "answer": "R1-2"
+        },
+        {
+          "question": "Q1-3",
+          "answer": "R1-3"
+        },
+        {
+          "question": "Q1-4",
+          "answer": "R1-4"
+        },
+        {
+          "question": "Q1-5",
+          "answer": "R1-5"
+        },
+        {
+          "question": "Q1-6",
+          "answer": "R1-6"
+        },
+        {
+          "question": "Q1-7",
+          "answer": "R1-7"
+        },
+        {
+          "question": "Q1-8",
+          "answer": "R1-8"
+        },
+        {
+          "question": "Q1-9",
+          "answer": "R1-9"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Joueur 2",
+      "theme": "Thème 2",
+      "questions": [
+        {
+          "question": "Q2-0",
+          "answer": "R2-0"
+        },
+        {
+          "question": "Q2-1",
+          "answer": "R2-1"
+        },
+        {
+          "question": "Q2-2",
+          "answer": "R2-2"
+        },
+        {
+          "question": "Q2-3",
+          "answer": "R2-3"
+        },
+        {
+          "question": "Q2-4",
+          "answer": "R2-4"
+        },
+        {
+          "question": "Q2-5",
+          "answer": "R2-5"
+        },
+        {
+          "question": "Q2-6",
+          "answer": "R2-6"
+        },
+        {
+          "question": "Q2-7",
+          "answer": "R2-7"
+        },
+        {
+          "question": "Q2-8",
+          "answer": "R2-8"
+        },
+        {
+          "question": "Q2-9",
+          "answer": "R2-9"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Joueur 3",
+      "theme": "Thème 3",
+      "questions": [
+        {
+          "question": "Q3-0",
+          "answer": "R3-0"
+        },
+        {
+          "question": "Q3-1",
+          "answer": "R3-1"
+        },
+        {
+          "question": "Q3-2",
+          "answer": "R3-2"
+        },
+        {
+          "question": "Q3-3",
+          "answer": "R3-3"
+        },
+        {
+          "question": "Q3-4",
+          "answer": "R3-4"
+        },
+        {
+          "question": "Q3-5",
+          "answer": "R3-5"
+        },
+        {
+          "question": "Q3-6",
+          "answer": "R3-6"
+        },
+        {
+          "question": "Q3-7",
+          "answer": "R3-7"
+        },
+        {
+          "question": "Q3-8",
+          "answer": "R3-8"
+        },
+        {
+          "question": "Q3-9",
+          "answer": "R3-9"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Joueur 4",
+      "theme": "Thème 4",
+      "questions": [
+        {
+          "question": "Q4-0",
+          "answer": "R4-0"
+        },
+        {
+          "question": "Q4-1",
+          "answer": "R4-1"
+        },
+        {
+          "question": "Q4-2",
+          "answer": "R4-2"
+        },
+        {
+          "question": "Q4-3",
+          "answer": "R4-3"
+        },
+        {
+          "question": "Q4-4",
+          "answer": "R4-4"
+        },
+        {
+          "question": "Q4-5",
+          "answer": "R4-5"
+        },
+        {
+          "question": "Q4-6",
+          "answer": "R4-6"
+        },
+        {
+          "question": "Q4-7",
+          "answer": "R4-7"
+        },
+        {
+          "question": "Q4-8",
+          "answer": "R4-8"
+        },
+        {
+          "question": "Q4-9",
+          "answer": "R4-9"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Joueur 5",
+      "theme": "Thème 5",
+      "questions": [
+        {
+          "question": "Q5-0",
+          "answer": "R5-0"
+        },
+        {
+          "question": "Q5-1",
+          "answer": "R5-1"
+        },
+        {
+          "question": "Q5-2",
+          "answer": "R5-2"
+        },
+        {
+          "question": "Q5-3",
+          "answer": "R5-3"
+        },
+        {
+          "question": "Q5-4",
+          "answer": "R5-4"
+        },
+        {
+          "question": "Q5-5",
+          "answer": "R5-5"
+        },
+        {
+          "question": "Q5-6",
+          "answer": "R5-6"
+        },
+        {
+          "question": "Q5-7",
+          "answer": "R5-7"
+        },
+        {
+          "question": "Q5-8",
+          "answer": "R5-8"
+        },
+        {
+          "question": "Q5-9",
+          "answer": "R5-9"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Joueur 6",
+      "theme": "Thème 6",
+      "questions": [
+        {
+          "question": "Q6-0",
+          "answer": "R6-0"
+        },
+        {
+          "question": "Q6-1",
+          "answer": "R6-1"
+        },
+        {
+          "question": "Q6-2",
+          "answer": "R6-2"
+        },
+        {
+          "question": "Q6-3",
+          "answer": "R6-3"
+        },
+        {
+          "question": "Q6-4",
+          "answer": "R6-4"
+        },
+        {
+          "question": "Q6-5",
+          "answer": "R6-5"
+        },
+        {
+          "question": "Q6-6",
+          "answer": "R6-6"
+        },
+        {
+          "question": "Q6-7",
+          "answer": "R6-7"
+        },
+        {
+          "question": "Q6-8",
+          "answer": "R6-8"
+        },
+        {
+          "question": "Q6-9",
+          "answer": "R6-9"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Joueur 7",
+      "theme": "Thème 7",
+      "questions": [
+        {
+          "question": "Q7-0",
+          "answer": "R7-0"
+        },
+        {
+          "question": "Q7-1",
+          "answer": "R7-1"
+        },
+        {
+          "question": "Q7-2",
+          "answer": "R7-2"
+        },
+        {
+          "question": "Q7-3",
+          "answer": "R7-3"
+        },
+        {
+          "question": "Q7-4",
+          "answer": "R7-4"
+        },
+        {
+          "question": "Q7-5",
+          "answer": "R7-5"
+        },
+        {
+          "question": "Q7-6",
+          "answer": "R7-6"
+        },
+        {
+          "question": "Q7-7",
+          "answer": "R7-7"
+        },
+        {
+          "question": "Q7-8",
+          "answer": "R7-8"
+        },
+        {
+          "question": "Q7-9",
+          "answer": "R7-9"
+        }
+      ]
+    }
+  ],
+  "finalists": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "eliminatedCounts": {
+    "5": 3,
+    "6": 3,
+    "7": 2
+  },
+  "cells": [
+    {
+      "playerId": 1,
+      "color": "rouge",
+      "theme": "Thème 1",
+      "question": "Q1-0",
+      "answer": "R1-0",
+      "used": false
+    },
+    {
+      "playerId": 5,
+      "color": "blanc",
+      "theme": "Thème 5",
+      "question": "Q5-0",
+      "answer": "R5-0",
+      "used": false
+    },
+    {
+      "playerId": 1,
+      "color": "rouge",
+      "theme": "Thème 1",
+      "question": "Q1-4",
+      "answer": "R1-4",
+      "used": false
+    },
+    {
+      "playerId": 4,
+      "color": "violet",
+      "theme": "Thème 4",
+      "question": "Q4-4",
+      "answer": "R4-4",
+      "used": false
+    },
+    {
+      "playerId": 4,
+      "color": "violet",
+      "theme": "Thème 4",
+      "question": "Q4-0",
+      "answer": "R4-0",
+      "used": false
+    },
+    {
+      "playerId": 1,
+      "color": "rouge",
+      "theme": "Thème 1",
+      "question": "Q1-6",
+      "answer": "R1-6",
+      "used": false
+    },
+    {
+      "playerId": 3,
+      "color": "vert",
+      "theme": "Thème 3",
+      "question": "Q3-6",
+      "answer": "R3-6",
+      "used": false
+    },
+    {
+      "playerId": 3,
+      "color": "vert",
+      "theme": "Thème 3",
+      "question": "Q3-7",
+      "answer": "R3-7",
+      "used": false
+    },
+    {
+      "playerId": 4,
+      "color": "violet",
+      "theme": "Thème 4",
+      "question": "Q4-3",
+      "answer": "R4-3",
+      "used": false
+    },
+    {
+      "playerId": 1,
+      "color": "rouge",
+      "theme": "Thème 1",
+      "question": "Q1-8",
+      "answer": "R1-8",
+      "used": false
+    },
+    {
+      "playerId": 4,
+      "color": "violet",
+      "theme": "Thème 4",
+      "question": "Q4-9",
+      "answer": "R4-9",
+      "used": false
+    },
+    {
+      "playerId": 3,
+      "color": "vert",
+      "theme": "Thème 3",
+      "question": "Q3-0",
+      "answer": "R3-0",
+      "used": false
+    },
+    {
+      "playerId": 5,
+      "color": "blanc",
+      "theme": "Thème 5",
+      "question": "Q5-5",
+      "answer": "R5-5",
+      "used": false
+    },
+    {
+      "playerId": 4,
+      "color": "violet",
+      "theme": "Thème 4",
+      "question": "Q4-2",
+      "answer": "R4-2",
+      "used": false
+    },
+    {
+      "playerId": 4,
+      "color": "violet",
+      "theme": "Thème 4",
+      "question": "Q4-1",
+      "answer": "R4-1",
+      "used": false
+    },
+    {
+      "playerId": 3,
+      "color": "vert",
+      "theme": "Thème 3",
+      "question": "Q3-8",
+      "answer": "R3-8",
+      "used": false
+    },
+    {
+      "playerId": 2,
+      "color": "jaune",
+      "theme": "Thème 2",
+      "question": "Q2-4",
+      "answer": "R2-4",
+      "used": false
+    },
+    {
+      "playerId": 1,
+      "color": "rouge",
+      "theme": "Thème 1",
+      "question": "Q1-7",
+      "answer": "R1-7",
+      "used": false
+    },
+    {
+      "playerId": 2,
+      "color": "jaune",
+      "theme": "Thème 2",
+      "question": "Q2-3",
+      "answer": "R2-3",
+      "used": false
+    },
+    {
+      "playerId": 1,
+      "color": "rouge",
+      "theme": "Thème 1",
+      "question": "Q1-1",
+      "answer": "R1-1",
+      "used": false
+    },
+    {
+      "playerId": 3,
+      "color": "vert",
+      "theme": "Thème 3",
+      "question": "Q3-4",
+      "answer": "R3-4",
+      "used": false
+    },
+    {
+      "playerId": 3,
+      "color": "vert",
+      "theme": "Thème 3",
+      "question": "Q3-9",
+      "answer": "R3-9",
+      "used": false
+    },
+    {
+      "playerId": 1,
+      "color": "rouge",
+      "theme": "Thème 1",
+      "question": "Q1-9",
+      "answer": "R1-9",
+      "used": false
+    },
+    {
+      "playerId": 4,
+      "color": "violet",
+      "theme": "Thème 4",
+      "question": "Q4-7",
+      "answer": "R4-7",
+      "used": false
+    },
+    {
+      "playerId": 3,
+      "color": "vert",
+      "theme": "Thème 3",
+      "question": "Q3-3",
+      "answer": "R3-3",
+      "used": false
+    },
+    {
+      "playerId": 4,
+      "color": "violet",
+      "theme": "Thème 4",
+      "question": "Q4-8",
+      "answer": "R4-8",
+      "used": false
+    },
+    {
+      "playerId": 2,
+      "color": "jaune",
+      "theme": "Thème 2",
+      "question": "Q2-2",
+      "answer": "R2-2",
+      "used": false
+    },
+    {
+      "playerId": 1,
+      "color": "rouge",
+      "theme": "Thème 1",
+      "question": "Q1-2",
+      "answer": "R1-2",
+      "used": false
+    },
+    {
+      "playerId": 5,
+      "color": "blanc",
+      "theme": "Thème 5",
+      "question": "Q5-6",
+      "answer": "R5-6",
+      "used": false
+    },
+    {
+      "playerId": 7,
+      "color": "blanc",
+      "theme": "Thème 7",
+      "question": "Q7-4",
+      "answer": "R7-4",
+      "used": false
+    },
+    {
+      "playerId": 2,
+      "color": "jaune",
+      "theme": "Thème 2",
+      "question": "Q2-8",
+      "answer": "R2-8",
+      "used": false
+    },
+    {
+      "playerId": 2,
+      "color": "jaune",
+      "theme": "Thème 2",
+      "question": "Q2-6",
+      "answer": "R2-6",
+      "used": false
+    },
+    {
+      "playerId": 2,
+      "color": "jaune",
+      "theme": "Thème 2",
+      "question": "Q2-9",
+      "answer": "R2-9",
+      "used": false
+    },
+    {
+      "playerId": 1,
+      "color": "rouge",
+      "theme": "Thème 1",
+      "question": "Q1-3",
+      "answer": "R1-3",
+      "used": false
+    },
+    {
+      "playerId": 2,
+      "color": "jaune",
+      "theme": "Thème 2",
+      "question": "Q2-1",
+      "answer": "R2-1",
+      "used": false
+    },
+    {
+      "playerId": 4,
+      "color": "violet",
+      "theme": "Thème 4",
+      "question": "Q4-5",
+      "answer": "R4-5",
+      "used": false
+    },
+    {
+      "playerId": 6,
+      "color": "blanc",
+      "theme": "Thème 6",
+      "question": "Q6-7",
+      "answer": "R6-7",
+      "used": false
+    },
+    {
+      "playerId": 3,
+      "color": "vert",
+      "theme": "Thème 3",
+      "question": "Q3-1",
+      "answer": "R3-1",
+      "used": false
+    },
+    {
+      "playerId": 6,
+      "color": "blanc",
+      "theme": "Thème 6",
+      "question": "Q6-3",
+      "answer": "R6-3",
+      "used": false
+    },
+    {
+      "playerId": 2,
+      "color": "jaune",
+      "theme": "Thème 2",
+      "question": "Q2-5",
+      "answer": "R2-5",
+      "used": false
+    },
+    {
+      "playerId": 3,
+      "color": "vert",
+      "theme": "Thème 3",
+      "question": "Q3-2",
+      "answer": "R3-2",
+      "used": false
+    },
+    {
+      "playerId": 7,
+      "color": "blanc",
+      "theme": "Thème 7",
+      "question": "Q7-6",
+      "answer": "R7-6",
+      "used": false
+    },
+    {
+      "playerId": 3,
+      "color": "vert",
+      "theme": "Thème 3",
+      "question": "Q3-5",
+      "answer": "R3-5",
+      "used": false
+    },
+    {
+      "playerId": 4,
+      "color": "violet",
+      "theme": "Thème 4",
+      "question": "Q4-6",
+      "answer": "R4-6",
+      "used": false
+    },
+    {
+      "playerId": 1,
+      "color": "rouge",
+      "theme": "Thème 1",
+      "question": "Q1-5",
+      "answer": "R1-5",
+      "used": false
+    },
+    {
+      "playerId": 2,
+      "color": "jaune",
+      "theme": "Thème 2",
+      "question": "Q2-7",
+      "answer": "R2-7",
+      "used": false
+    },
+    {
+      "playerId": 6,
+      "color": "blanc",
+      "theme": "Thème 6",
+      "question": "Q6-9",
+      "answer": "R6-9",
+      "used": false
+    },
+    {
+      "playerId": 2,
+      "color": "jaune",
+      "theme": "Thème 2",
+      "question": "Q2-0",
+      "answer": "R2-0",
+      "used": false
+    }
+  ],
+  "phase": "grid",
+  "colorsVisible": false,
+  "selected": null,
+  "revealed": false,
+  "turn": 1,
+  "scores": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0
+  },
+  "history": [],
+  "version": 20
+}
