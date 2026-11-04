@@ -53,40 +53,40 @@
       "theme": "Le Règne Animal",
       "questions": [
         {
-          "question": "Q2-0",
-          "answer": "R2-0"
+          "question": "Combien de pattes possède une araignée ?",
+          "answer": "8"
         },
         {
-          "question": "Q2-1",
-          "answer": "R2-1"
+          "question": "Quel est le seul groupe de mammifères capable de voler activement ?",
+          "answer": "Les Chiroptères (communément appelés les chauves-souris)"
         },
         {
-          "question": "Q2-2",
-          "answer": "R2-2"
+          "question": "Combien de cœurs possède une pieuvre ?",
+          "answer": "3"
         },
         {
-          "question": "Q2-3",
-          "answer": "R2-3"
+          "question": "Quel animal du désert possède une troisième paupière qui protège ses yeux du sable ?",
+          "answer": "Le Chameau ou le Dromadaire"
         },
         {
-          "question": "Q2-4",
-          "answer": "R2-4"
+          "question": "Quel petit oiseau est capable de voler en marche arrière de manière soutenue ?",
+          "answer": "Le Colibri"
         },
         {
-          "question": "Q2-5",
-          "answer": "R2-5"
+          "question": "Chez quel animal marin le mâle porte-t-il les œufs dans une poche incubatrice ?",
+          "answer": "L'Hippocampe"
         },
         {
-          "question": "Q2-6",
-          "answer": "R2-6"
+          "question": "Quel mammifère possède, chez le mâle, cinq chromosomes X et cinq chromosomes Y ?",
+          "answer": "L'Ornithorynque"
         },
         {
-          "question": "Q2-7",
-          "answer": "R2-7"
+          "question": "Quel mollusque marin possède des pupilles caractéristiques en forme de W ?",
+          "answer": "La Seiche"
         },
         {
-          "question": "Q2-8",
-          "answer": "R2-8"
+          "question": "Quel animal est connu pour avoir des empreintes digitales très similaires à celles des humains ?",
+          "answer": "Le Koala"
         },
         {
           "question": "Quel animal peut dormir debout grâce à un mécanisme qui verrouille ses articulations ?",
@@ -340,5 +340,5 @@
   "turn": 0,
   "scores": {},
   "history": [],
-  "version": 8
+  "version": 9
 }
