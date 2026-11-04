@@ -500,7 +500,7 @@
       "theme": "La Formule 1 Depuis les Années 2000",
       "question": "Lors du Grand Prix d'Australie 2022, quel pilote a reçu une amende de 5 000 € pour avoir roulé sur le circuit avec un scooter ?",
       "answer": "Sebastian Vettel (Il avait emprunté le scooter d'un commissaire)",
-      "used": false
+      "used": true
     },
     {
       "playerId": 3,
@@ -727,11 +727,11 @@
       "used": false
     }
   ],
-  "phase": "question",
+  "phase": "grid",
   "colorsVisible": false,
-  "selected": 19,
-  "revealed": true,
-  "turn": 4,
+  "selected": null,
+  "revealed": false,
+  "turn": 1,
   "scores": {
     "1": 2,
     "2": 2,
@@ -762,7 +762,15 @@
       "color": "violet",
       "correct": true,
       "points": 2
+    },
+    {
+      "number": 20,
+      "playerId": 4,
+      "ownerId": 6,
+      "color": "blanc",
+      "correct": false,
+      "points": 0
     }
   ],
-  "version": 45
+  "version": 46
 }
