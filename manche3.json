@@ -556,7 +556,7 @@
       "theme": "Les Joueurs de Foot du PSG",
       "question": "Quel joueur détient le record du plus grand nombre de buts inscrits en une seule saison dans l'histoire du PSG, toutes compétitions officielles confondues ?",
       "answer": "Zlatan Ibrahimović (50 buts lors de la saison 2015-2016)",
-      "used": false
+      "used": true
     },
     {
       "playerId": 4,
@@ -727,14 +727,14 @@
       "used": false
     }
   ],
-  "phase": "question",
+  "phase": "grid",
   "colorsVisible": false,
-  "selected": 26,
-  "revealed": true,
-  "turn": 2,
+  "selected": null,
+  "revealed": false,
+  "turn": 4,
   "scores": {
     "1": 2,
-    "2": 0,
+    "2": 2,
     "3": 0,
     "4": 0
   },
@@ -754,7 +754,15 @@
       "color": "vert",
       "correct": false,
       "points": 0
+    },
+    {
+      "number": 27,
+      "playerId": 2,
+      "ownerId": 4,
+      "color": "violet",
+      "correct": true,
+      "points": 2
     }
   ],
-  "version": 40
+  "version": 41
 }
