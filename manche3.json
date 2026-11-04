@@ -143,8 +143,8 @@
     },
     {
       "id": 4,
-      "name": "Joueur 4",
-      "theme": "Thème 4",
+      "name": "Lila",
+      "theme": "Les Joueurs de Foot du PSG",
       "questions": [
         {
           "question": "Quel ancien attaquant français du PSG est surnommé « KM7 » ?",
@@ -340,5 +340,5 @@
   "turn": 0,
   "scores": {},
   "history": [],
-  "version": 14
+  "version": 15
 }
