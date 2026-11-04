@@ -728,7 +728,7 @@
     }
   ],
   "phase": "grid",
-  "colorsVisible": true,
+  "colorsVisible": false,
   "selected": null,
   "revealed": false,
   "turn": 2,
@@ -748,5 +748,5 @@
       "points": 3
     }
   ],
-  "version": 33
+  "version": 34
 }
