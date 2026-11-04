@@ -68,3 +68,14 @@ La manche 2 est sauvegardée dans `manche2.json` localement et, **si `GITHUB_TOK
 
 ### Important
 Les écrans publics n'exposent ni les questions ni les réponses. Le système de synchronisation fonctionne par interrogation périodique du serveur (environ une seconde). La manche 2 est indépendante de la manche 1.
+
+## Manche 3 — Grande finale
+
+- Organisateur : `/admin/manche3` (même code `ADMIN_PIN` que les autres manches)
+- Affichage Discord : `/screen/manche3`
+- Préparation : renseigner les 7 joueurs, leurs thèmes et 10 questions/réponses par joueur.
+- Finale : sélectionner les 4 finalistes (rouge, jaune, vert, violet), attribuer 3+3+2 questions aux 3 éliminés, puis générer 48 cases aléatoires.
+- Les couleurs sont masquées manuellement ; une question jouée devient grise. La réponse est révélée par l'organisateur.
+- Barème : 3 points sur son propre thème, 2 points sur un autre thème ou une case blanche, 0 en cas d'erreur.
+- Une annulation de la dernière validation est possible ; la réinitialisation de la grille conserve les banques de questions.
+- La sauvegarde durable utilise `manche3.json` sur la branche GitHub `quiz-data`, et exige `GITHUB_TOKEN` avec permission d'écriture. Ne pas modifier manuellement cette branche pendant une partie.

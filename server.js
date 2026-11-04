@@ -1,4 +1,5 @@
 const manche2=require('./manche2');
+const manche3=require('./manche3');
 const http=require('http'),fs=require('fs'),path=require('path'),crypto=require('crypto');
 const PORT=process.env.PORT||3000, ADMIN_PIN=process.env.ADMIN_PIN||'CHANGEZ-MOI', ROOM=process.env.ROOM_CODE||'TUCHES';
 const positions=new Set([2,5,8,11,14,17,19]);
@@ -30,6 +31,7 @@ const clean=s=>String(s||'').trim().slice(0,32);
 const publicState=()=>({current,visible,revealed,deadline:deadline||null,round,question:visible?questions[current].question:'',answers:visible?questions[current].answers:[],type:questions[current].type,correct:revealed?questions[current].correct:null,responded:Object.keys(responses).length,players:Object.keys(players).length,ranking:ranking()});
 const server=http.createServer(async(req,res)=>{try{
  const url=new URL(req.url,'http://localhost');
+ const handled3=manche3.handler(req,res,url,auth,body,json);if(handled3!==false)return await handled3;
  const handled=manche2.handler(req,res,url,auth,body,json);if(handled!==false)return await handled;
  if(req.method==='GET'&&['/','/admin','/play','/screen'].includes(url.pathname)){const name=url.pathname==='/play'?'play.html':url.pathname==='/screen'?'screen.html':'admin.html';res.writeHead(200,{'Content-Type':'text/html; charset=utf-8','Cache-Control':'no-store'});return fs.createReadStream(path.join(__dirname,name)).pipe(res)}
  if(req.method==='GET'&&url.pathname==='/api/state')return json(res,200,publicState());
@@ -50,4 +52,4 @@ const server=http.createServer(async(req,res)=>{try{
  }}
  return json(res,404,{error:'Introuvable'});
  }catch(e){return json(res,400,{error:e.message})}});
-Promise.all([loadQuestions(),manche2.init()]).then(()=>server.listen(PORT,()=>console.log('Quiz prêt sur le port '+PORT+' ; '+storageStatus)));
+Promise.all([loadQuestions(),manche2.init(),manche3.init()]).then(()=>server.listen(PORT,()=>console.log('Quiz prêt sur le port '+PORT+' ; '+storageStatus)));
