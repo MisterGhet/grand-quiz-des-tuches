@@ -982,7 +982,9 @@
   "streak": true,
   "startedAt": 1794683939395,
   "remaining": 90,
-  "answers": [],
+  "answers": [
+    true
+  ],
   "history": [],
-  "version": 6
+  "version": 7
 }
