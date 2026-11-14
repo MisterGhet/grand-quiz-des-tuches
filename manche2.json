@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Joueur 1",
-      "streakUsed": false
+      "streakUsed": true
     },
     {
       "id": 2,
@@ -976,13 +976,13 @@
       ]
     }
   ],
-  "phase": "preview",
+  "phase": "running",
   "theme": 2,
   "player": 1,
   "streak": true,
-  "startedAt": null,
+  "startedAt": 1794683939395,
   "remaining": 90,
   "answers": [],
   "history": [],
-  "version": 5
+  "version": 6
 }
