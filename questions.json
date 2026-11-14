@@ -1,12 +1,12 @@
 [
   {
     "type": "CULTURE G",
-    "question": "Parmi ces quatre propositions, quel est le plus petit état ?",
+    "question": "Bonjour A tous sa va ?",
     "answers": [
-      "La Principauté d’Andorre",
-      "La Principauté de Monaco",
-      "La Yougoslavie",
-      "Le Vatican"
+      "Oui ",
+      "Non",
+      "Ca va",
+      "Peut etre"
     ],
     "correct": 3
   },
