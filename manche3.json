@@ -728,7 +728,7 @@
     }
   ],
   "phase": "grid",
-  "colorsVisible": false,
+  "colorsVisible": true,
   "selected": null,
   "revealed": false,
   "turn": 1,
@@ -739,5 +739,5 @@
     "5": 0
   },
   "history": [],
-  "version": 6
+  "version": 7
 }
