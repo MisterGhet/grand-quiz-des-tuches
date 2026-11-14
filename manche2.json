@@ -174,7 +174,7 @@
     {
       "id": 2,
       "name": "Gastronomie",
-      "used": false,
+      "used": true,
       "questions": [
         {
           "question": "",
@@ -976,29 +976,22 @@
       ]
     }
   ],
-  "phase": "finished",
-  "theme": 2,
-  "player": 1,
-  "streak": true,
+  "phase": "grid",
+  "theme": null,
+  "player": null,
+  "streak": false,
   "startedAt": null,
-  "remaining": 38,
-  "answers": [
-    true,
-    false,
-    false,
-    false,
-    true,
-    true,
-    false,
-    true,
-    false,
-    true,
-    false,
-    true,
-    false,
-    true,
-    true
+  "remaining": 90,
+  "answers": [],
+  "history": [
+    {
+      "player": 1,
+      "theme": 2,
+      "correct": 8,
+      "streak": true,
+      "points": 16,
+      "at": "2026-11-14T19:19:56.682Z"
+    }
   ],
-  "history": [],
-  "version": 23
+  "version": 24
 }
