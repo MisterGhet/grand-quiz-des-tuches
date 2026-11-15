@@ -636,7 +636,7 @@
       "theme": "La Saga Bridget Jones",
       "question": "Quelle chanson de Madonna Bridget apprend-elle à chanter aux autres détenues pendant son séjour en prison ?",
       "answer": "Like a Virgin",
-      "used": false
+      "used": true
     },
     {
       "playerId": 6,
@@ -727,11 +727,11 @@
       "used": true
     }
   ],
-  "phase": "question",
+  "phase": "grid",
   "colorsVisible": false,
-  "selected": 36,
-  "revealed": true,
-  "turn": 7,
+  "selected": null,
+  "revealed": false,
+  "turn": 5,
   "scores": {
     "2": 9,
     "5": 9,
@@ -1018,7 +1018,15 @@
       "color": "vert",
       "correct": true,
       "points": 3
+    },
+    {
+      "number": 37,
+      "playerId": 7,
+      "ownerId": 5,
+      "color": "rouge",
+      "correct": false,
+      "points": 0
     }
   ],
-  "version": 117
+  "version": 118
 }
