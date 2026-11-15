@@ -445,64 +445,64 @@
       "used": false,
       "questions": [
         {
-          "question": "",
-          "answer": ""
+          "question": "Qui est l'auteur des poèmes épiques L'Iliade et L'Odyssée ?",
+          "answer": "Homère"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quelle montagne grecque est considérée comme le domaine des dieux ?",
+          "answer": "Le Mont Olympe"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Comment s'appelle le dieu du vin et des festivités ?",
+          "answer": "Dionysos"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quel est le seul point faible du héros Achille ?",
+          "answer": "Son Talon"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quel était le roi de Sparte au moment de la fameuse bataille des Thermopyles ?",
+          "answer": "Léonidas"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quel personnage mythique, fils de Dédale, est mort après avoir volé trop près du soleil ?",
+          "answer": "Icare"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Dans les douze travaux d'Hercule, quelle est la dernière épreuve ?",
+          "answer": "Cerbère"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quel Titan a dérobé le feu aux dieux pour le transmettre aux hommes ?",
+          "answer": "Prométhée"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Qui est le dieu de la mer et des océans ?",
+          "answer": "Poséidon"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quelle créature mythologique possède un corps de lion et une tête humaine ?",
+          "answer": "Le Sphinx"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quel héros grec a vaincu le Minotaure dans le labyrinthe de Crète ?",
+          "answer": "Thésée"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quelle déesse grecque est associée à la sagesse et à la stratégie militaire ?",
+          "answer": "Athéna"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Comment s'appelle le cheval ailé de la mythologie grecque ?",
+          "answer": "Pégase"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quel géant de la mythologie grecque fut condamné à porter la voûte céleste sur ses épaules pour l'éternité ?",
+          "answer": "Atlas"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quel est le nom du géant aux cent yeux, chargé par Héra de surveiller Io ?",
+          "answer": "Argos Panoptès"
         }
       ]
     },
@@ -984,5 +984,5 @@
   "remaining": 90,
   "answers": [],
   "history": [],
-  "version": 17
+  "version": 18
 }
