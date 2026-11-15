@@ -548,7 +548,7 @@
       "theme": "Le Règne Animal",
       "question": "Quel est le seul groupe de mammifères capable de voler activement ?",
       "answer": "Les Chiroptères (communément appelés les chauves-souris)",
-      "used": false
+      "used": true
     },
     {
       "playerId": 3,
@@ -727,11 +727,11 @@
       "used": false
     }
   ],
-  "phase": "question",
+  "phase": "grid",
   "colorsVisible": false,
-  "selected": 25,
-  "revealed": true,
-  "turn": 2,
+  "selected": null,
+  "revealed": false,
+  "turn": 6,
   "scores": {
     "2": 6,
     "5": 9,
@@ -906,7 +906,15 @@
       "color": "blanc",
       "correct": false,
       "points": 0
+    },
+    {
+      "number": 26,
+      "playerId": 2,
+      "ownerId": 2,
+      "color": "jaune",
+      "correct": false,
+      "points": 0
     }
   ],
-  "version": 75
+  "version": 76
 }
