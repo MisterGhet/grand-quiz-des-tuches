@@ -364,7 +364,7 @@
       "theme": "Les Records en NBA",
       "question": "Quel joueur détient le record de contres réalisés en un seul match NBA ?",
       "answer": "Elmore Smith avec 17 contres (Il a établi ce record avec les Lakers en 1973)",
-      "used": false
+      "used": true
     },
     {
       "playerId": 6,
@@ -727,11 +727,11 @@
       "used": false
     }
   ],
-  "phase": "question",
+  "phase": "grid",
   "colorsVisible": false,
-  "selected": 2,
-  "revealed": true,
-  "turn": 7,
+  "selected": null,
+  "revealed": false,
+  "turn": 5,
   "scores": {
     "2": 0,
     "5": 3,
@@ -762,7 +762,15 @@
       "color": "vert",
       "correct": true,
       "points": 3
+    },
+    {
+      "number": 3,
+      "playerId": 7,
+      "ownerId": 7,
+      "color": "violet",
+      "correct": false,
+      "points": 0
     }
   ],
-  "version": 21
+  "version": 22
 }
