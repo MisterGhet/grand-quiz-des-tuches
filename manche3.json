@@ -644,7 +644,7 @@
       "theme": "La Formule 1 Depuis les Années 2000",
       "question": "Quel pilote italien de Mercedes est devenu, en 2026, le plus jeune champion du monde de l'histoire de la Formule 1 ?",
       "answer": "Andrea Kimi Antonelli (Il a été sacré le 1er novembre 2026, au Grand Prix du Mexique, à 20 ans)",
-      "used": false
+      "used": true
     },
     {
       "playerId": 6,
@@ -727,15 +727,15 @@
       "used": true
     }
   ],
-  "phase": "question",
+  "phase": "grid",
   "colorsVisible": false,
-  "selected": 37,
-  "revealed": true,
-  "turn": 6,
+  "selected": null,
+  "revealed": false,
+  "turn": 7,
   "scores": {
     "2": 6,
     "5": 9,
-    "6": 21,
+    "6": 24,
     "7": 12
   },
   "history": [
@@ -978,7 +978,15 @@
       "color": "jaune",
       "correct": false,
       "points": 0
+    },
+    {
+      "number": 38,
+      "playerId": 6,
+      "ownerId": 6,
+      "color": "vert",
+      "correct": true,
+      "points": 3
     }
   ],
-  "version": 102
+  "version": 103
 }
