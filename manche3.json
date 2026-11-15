@@ -730,7 +730,7 @@
   "phase": "question",
   "colorsVisible": false,
   "selected": 17,
-  "revealed": false,
+  "revealed": true,
   "turn": 6,
   "scores": {
     "2": 9,
@@ -1076,5 +1076,5 @@
       "points": 0
     }
   ],
-  "version": 140
+  "version": 141
 }
