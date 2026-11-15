@@ -40,7 +40,7 @@
     {
       "id": 0,
       "name": "Animaux et nature",
-      "used": false,
+      "used": true,
       "questions": [
         {
           "question": "",
@@ -976,12 +976,12 @@
       ]
     }
   ],
-  "phase": "finished",
-  "theme": 0,
-  "player": 1,
+  "phase": "grid",
+  "theme": null,
+  "player": null,
   "streak": false,
   "startedAt": null,
-  "remaining": 82,
+  "remaining": 90,
   "answers": [],
   "history": [
     {
@@ -991,7 +991,15 @@
       "streak": true,
       "points": 16,
       "at": "2026-11-14T19:19:56.682Z"
+    },
+    {
+      "player": 1,
+      "theme": 0,
+      "correct": 0,
+      "streak": false,
+      "points": 0,
+      "at": "2026-11-15T11:44:22.084Z"
     }
   ],
-  "version": 58
+  "version": 59
 }
