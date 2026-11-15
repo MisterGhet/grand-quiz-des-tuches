@@ -177,64 +177,64 @@
       "used": false,
       "questions": [
         {
-          "question": "",
-          "answer": ""
+          "question": "Sur quelle base est servie l'île flottante ?",
+          "answer": "Une crème anglaise"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Vrai ou faux : les olives vertes sont bénéfiques pour le bon cholestérol ?",
+          "answer": "Vrai"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "D'où vient la piperade ?",
+          "answer": "Du Pays Basque"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Qu'est-ce que le xérès ?",
+          "answer": "Un Vin Espagnol Fortifié"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Comment appelle-t-on communément une personne qui ne mange pas de viande ?",
+          "answer": "Un végétarien"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Dans une cuisine, quelle tâche effectue le plongeur ?",
+          "answer": "Il lave la vaisselle et les Ustensiles de Cuisine"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Comment s'appelle celui qui prépare la pizza ?",
+          "answer": "Un pizzaïolo"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Que signifie l'affinage pour un fromage ?",
+          "answer": "C'est la période de maturation pendant laquelle le fromage développe son goût, sa texture et ses arômes"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quelle est la couleur de la chair d'un chapon ?",
+          "answer": "Blanche"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Comment appelle-t-on l'ensemble des cuisiniers dans un restaurant ?",
+          "answer": "Une Brigade de Cuisine"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quel fruit compose la tarte Bourdaloue ?",
+          "answer": "La Poire"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quel temps faut-il pour cuire un œuf à la coque ?",
+          "answer": "3 minutes"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Communément, le vin est obtenu à partir de la fermentation de quel fruit ?",
+          "answer": "Le Raisin"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Comment s'appelle le guide qui recense les meilleurs restaurants ?",
+          "answer": "Le Guide Michelin"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quelle épice est obtenue à partir des stigmates d'une fleur de crocus ?",
+          "answer": "Le Safran"
         }
       ]
     },
@@ -984,5 +984,5 @@
   "remaining": 90,
   "answers": [],
   "history": [],
-  "version": 10
+  "version": 11
 }
