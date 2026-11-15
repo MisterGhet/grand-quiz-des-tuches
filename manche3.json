@@ -444,7 +444,7 @@
       "theme": "La Formule 1 Depuis les Années 2000",
       "question": "Lors du Grand Prix de Bahreïn 2020, quel pilote a survécu à un terrible accident dans lequel sa monoplace s'est coupée en deux et a pris feu ?",
       "answer": "Romain Grosjean (Il est resté 27 secondes dans les flammes)",
-      "used": false
+      "used": true
     },
     {
       "playerId": 5,
@@ -727,11 +727,11 @@
       "used": true
     }
   ],
-  "phase": "question",
+  "phase": "grid",
   "colorsVisible": false,
-  "selected": 12,
-  "revealed": true,
-  "turn": 2,
+  "selected": null,
+  "revealed": false,
+  "turn": 6,
   "scores": {
     "2": 9,
     "5": 9,
@@ -1034,7 +1034,15 @@
       "color": "violet",
       "correct": false,
       "points": 0
+    },
+    {
+      "number": 13,
+      "playerId": 2,
+      "ownerId": 6,
+      "color": "vert",
+      "correct": false,
+      "points": 0
     }
   ],
-  "version": 123
+  "version": 124
 }
