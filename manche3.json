@@ -628,7 +628,7 @@
       "theme": "Les Records en NBA",
       "question": "Quels sont les deux joueurs qui se partagent le record de 11 interceptions en un match NBA ?",
       "answer": "Larry Kenon et Kendall Gill (Ils ont réalisé cet exploit en 1976 et 1999)",
-      "used": false
+      "used": true
     },
     {
       "playerId": 5,
@@ -727,11 +727,11 @@
       "used": true
     }
   ],
-  "phase": "question",
+  "phase": "grid",
   "colorsVisible": false,
-  "selected": 35,
-  "revealed": true,
-  "turn": 5,
+  "selected": null,
+  "revealed": false,
+  "turn": 2,
   "scores": {
     "2": 9,
     "5": 9,
@@ -1026,7 +1026,15 @@
       "color": "rouge",
       "correct": false,
       "points": 0
+    },
+    {
+      "number": 36,
+      "playerId": 5,
+      "ownerId": 7,
+      "color": "violet",
+      "correct": false,
+      "points": 0
     }
   ],
-  "version": 120
+  "version": 121
 }
