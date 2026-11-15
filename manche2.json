@@ -982,7 +982,9 @@
   "streak": false,
   "startedAt": 1794758173384,
   "remaining": 90,
-  "answers": [],
+  "answers": [
+    true
+  ],
   "history": [
     {
       "player": 1,
@@ -1041,5 +1043,5 @@
       "at": "2026-11-15T15:53:53.892Z"
     }
   ],
-  "version": 168
+  "version": 169
 }
