@@ -596,7 +596,7 @@
       "theme": "La Formule 1 Depuis les Années 2000",
       "question": "Quelle nouvelle écurie américaine a fait ses débuts en Formule 1 lors de la saison 2026 ?",
       "answer": "Cadillac (Elle est devenue la onzième écurie du plateau 2026)",
-      "used": false
+      "used": true
     },
     {
       "playerId": 2,
@@ -727,15 +727,15 @@
       "used": false
     }
   ],
-  "phase": "question",
+  "phase": "grid",
   "colorsVisible": false,
-  "selected": 31,
-  "revealed": true,
-  "turn": 6,
+  "selected": null,
+  "revealed": false,
+  "turn": 7,
   "scores": {
     "2": 6,
     "5": 9,
-    "6": 12,
+    "6": 15,
     "7": 9
   },
   "history": [
@@ -882,7 +882,15 @@
       "color": "jaune",
       "correct": true,
       "points": 3
+    },
+    {
+      "number": 32,
+      "playerId": 6,
+      "ownerId": 6,
+      "color": "vert",
+      "correct": true,
+      "points": 3
     }
   ],
-  "version": 66
+  "version": 67
 }
