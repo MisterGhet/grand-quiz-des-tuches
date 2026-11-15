@@ -612,7 +612,7 @@
       "theme": "Le Règne Animal",
       "question": "Quel animal peut dormir debout grâce à un mécanisme qui verrouille ses articulations ?",
       "answer": "Le Cheval",
-      "used": false
+      "used": true
     },
     {
       "playerId": 6,
@@ -727,11 +727,11 @@
       "used": true
     }
   ],
-  "phase": "question",
+  "phase": "grid",
   "colorsVisible": false,
-  "selected": 33,
-  "revealed": true,
-  "turn": 2,
+  "selected": null,
+  "revealed": false,
+  "turn": 6,
   "scores": {
     "2": 6,
     "5": 9,
@@ -938,7 +938,15 @@
       "color": "jaune",
       "correct": false,
       "points": 0
+    },
+    {
+      "number": 34,
+      "playerId": 2,
+      "ownerId": 2,
+      "color": "jaune",
+      "correct": false,
+      "points": 0
     }
   ],
-  "version": 87
+  "version": 88
 }
