@@ -18,7 +18,7 @@
     {
       "id": 4,
       "name": "Emma",
-      "streakUsed": false
+      "streakUsed": true
     },
     {
       "id": 5,
@@ -976,11 +976,11 @@
       ]
     }
   ],
-  "phase": "preview",
+  "phase": "running",
   "theme": 1,
   "player": 4,
   "streak": true,
-  "startedAt": null,
+  "startedAt": 1794756840779,
   "remaining": 90,
   "answers": [],
   "history": [
@@ -1009,5 +1009,5 @@
       "at": "2026-11-15T15:33:20.010Z"
     }
   ],
-  "version": 84
+  "version": 85
 }
