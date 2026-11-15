@@ -556,7 +556,7 @@
       "theme": "Les Marques de Luxe",
       "question": "Quelle marque de luxe française est célèbre pour son parfum N°5 ?",
       "answer": "Chanel",
-      "used": false
+      "used": true
     },
     {
       "playerId": 7,
@@ -727,11 +727,11 @@
       "used": true
     }
   ],
-  "phase": "question",
+  "phase": "grid",
   "colorsVisible": false,
-  "selected": 26,
+  "selected": null,
   "revealed": false,
-  "turn": 7,
+  "turn": 5,
   "scores": {
     "2": 9,
     "5": 9,
@@ -1050,7 +1050,15 @@
       "color": "blanc",
       "correct": false,
       "points": 0
+    },
+    {
+      "number": 27,
+      "playerId": 7,
+      "ownerId": 3,
+      "color": "blanc",
+      "correct": false,
+      "points": 0
     }
   ],
-  "version": 128
+  "version": 129
 }
