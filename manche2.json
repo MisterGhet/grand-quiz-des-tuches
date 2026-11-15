@@ -174,7 +174,7 @@
     {
       "id": 2,
       "name": "Gastronomie",
-      "used": false,
+      "used": true,
       "questions": [
         {
           "question": "Sur quelle base est servie l'île flottante ?",
@@ -976,29 +976,13 @@
       ]
     }
   ],
-  "phase": "finished",
-  "theme": 2,
-  "player": 6,
-  "streak": true,
+  "phase": "grid",
+  "theme": null,
+  "player": null,
+  "streak": false,
   "startedAt": null,
-  "remaining": 0,
-  "answers": [
-    true,
-    true,
-    false,
-    false,
-    false,
-    true,
-    true,
-    true,
-    true,
-    true,
-    false,
-    true,
-    true,
-    true,
-    false
-  ],
+  "remaining": 90,
+  "answers": [],
   "history": [
     {
       "player": 1,
@@ -1039,7 +1023,15 @@
       "streak": true,
       "points": 4,
       "at": "2026-11-15T15:44:52.089Z"
+    },
+    {
+      "player": 6,
+      "theme": 2,
+      "correct": 10,
+      "streak": true,
+      "points": 20,
+      "at": "2026-11-15T15:48:56.074Z"
     }
   ],
-  "version": 147
+  "version": 148
 }
