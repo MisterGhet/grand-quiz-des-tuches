@@ -33,7 +33,7 @@
     {
       "id": 7,
       "name": "Mamie Tuche",
-      "streakUsed": false
+      "streakUsed": true
     }
   ],
   "themes": [
@@ -976,11 +976,11 @@
       ]
     }
   ],
-  "phase": "preview",
+  "phase": "running",
   "theme": 0,
   "player": 7,
   "streak": true,
-  "startedAt": null,
+  "startedAt": 1794757769124,
   "remaining": 90,
   "answers": [],
   "history": [
@@ -1033,5 +1033,5 @@
       "at": "2026-11-15T15:48:56.074Z"
     }
   ],
-  "version": 150
+  "version": 151
 }
