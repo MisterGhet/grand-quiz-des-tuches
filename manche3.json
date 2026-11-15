@@ -412,7 +412,7 @@
       "theme": "La Saga Bridget Jones",
       "question": "Dans Bridget Jones : L'Âge de raison (deuxième film), dans quel pays Bridget se retrouve-t-elle emprisonnée ?",
       "answer": "La Thaïlande (Elle est arrêtée à cause de drogue retrouvée dans ses bagages)",
-      "used": false
+      "used": true
     },
     {
       "playerId": 4,
@@ -727,14 +727,14 @@
       "used": false
     }
   ],
-  "phase": "question",
+  "phase": "grid",
   "colorsVisible": false,
-  "selected": 8,
-  "revealed": true,
-  "turn": 5,
+  "selected": null,
+  "revealed": false,
+  "turn": 2,
   "scores": {
     "2": 0,
-    "5": 3,
+    "5": 6,
     "6": 3,
     "7": 0
   },
@@ -770,7 +770,15 @@
       "color": "violet",
       "correct": false,
       "points": 0
+    },
+    {
+      "number": 9,
+      "playerId": 5,
+      "ownerId": 5,
+      "color": "rouge",
+      "correct": true,
+      "points": 3
     }
   ],
-  "version": 24
+  "version": 25
 }
