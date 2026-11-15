@@ -564,7 +564,7 @@
       "theme": "Les Records en NBA",
       "question": "Quel joueur français détient le record du plus grand nombre de titres de champion NBA ?",
       "answer": "Tony Parker, avec 4 titres (Il a remporté ses quatre titres avec les San Antonio Spurs)",
-      "used": false
+      "used": true
     },
     {
       "playerId": 5,
@@ -727,16 +727,16 @@
       "used": false
     }
   ],
-  "phase": "question",
+  "phase": "grid",
   "colorsVisible": false,
-  "selected": 27,
-  "revealed": true,
-  "turn": 7,
+  "selected": null,
+  "revealed": false,
+  "turn": 5,
   "scores": {
     "2": 3,
     "5": 6,
     "6": 6,
-    "7": 0
+    "7": 3
   },
   "history": [
     {
@@ -794,7 +794,15 @@
       "color": "vert",
       "correct": true,
       "points": 3
+    },
+    {
+      "number": 28,
+      "playerId": 7,
+      "ownerId": 7,
+      "color": "violet",
+      "correct": true,
+      "points": 3
     }
   ],
-  "version": 33
+  "version": 34
 }
