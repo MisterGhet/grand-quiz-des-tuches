@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Nico",
-      "streakUsed": false
+      "streakUsed": true
     },
     {
       "id": 2,
@@ -976,13 +976,13 @@
       ]
     }
   ],
-  "phase": "preview",
+  "phase": "running",
   "theme": 12,
   "player": 1,
   "streak": true,
-  "startedAt": null,
+  "startedAt": 1794755884442,
   "remaining": 90,
   "answers": [],
   "history": [],
-  "version": 33
+  "version": 34
 }
