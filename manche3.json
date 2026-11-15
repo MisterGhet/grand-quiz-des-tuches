@@ -452,7 +452,7 @@
       "theme": "La Saga Bridget Jones",
       "question": "Quel acteur britannique incarne Daniel Cleaver, le patron séducteur de Bridget dans le premier film ?",
       "answer": "Hugh Grant",
-      "used": false
+      "used": true
     },
     {
       "playerId": 7,
@@ -727,14 +727,14 @@
       "used": false
     }
   ],
-  "phase": "question",
+  "phase": "grid",
   "colorsVisible": false,
-  "selected": 13,
-  "revealed": true,
-  "turn": 5,
+  "selected": null,
+  "revealed": false,
+  "turn": 2,
   "scores": {
     "2": 3,
-    "5": 6,
+    "5": 9,
     "6": 9,
     "7": 6
   },
@@ -834,7 +834,15 @@
       "color": "violet",
       "correct": true,
       "points": 3
+    },
+    {
+      "number": 14,
+      "playerId": 5,
+      "ownerId": 5,
+      "color": "rouge",
+      "correct": true,
+      "points": 3
     }
   ],
-  "version": 48
+  "version": 49
 }
