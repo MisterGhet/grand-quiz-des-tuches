@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Joueur 1",
-      "streakUsed": true
+      "streakUsed": false
     },
     {
       "id": 2,
@@ -40,7 +40,7 @@
     {
       "id": 0,
       "name": "Animaux et nature",
-      "used": true,
+      "used": false,
       "questions": [
         {
           "question": "",
@@ -174,7 +174,7 @@
     {
       "id": 2,
       "name": "Gastronomie",
-      "used": true,
+      "used": false,
       "questions": [
         {
           "question": "",
@@ -983,23 +983,6 @@
   "startedAt": null,
   "remaining": 90,
   "answers": [],
-  "history": [
-    {
-      "player": 1,
-      "theme": 2,
-      "correct": 8,
-      "streak": true,
-      "points": 16,
-      "at": "2026-11-14T19:19:56.682Z"
-    },
-    {
-      "player": 1,
-      "theme": 0,
-      "correct": 0,
-      "streak": false,
-      "points": 0,
-      "at": "2026-11-15T11:44:22.084Z"
-    }
-  ],
-  "version": 60
+  "history": [],
+  "version": 1
 }
