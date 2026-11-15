@@ -911,7 +911,7 @@
     {
       "id": 13,
       "name": "Super-héros",
-      "used": false,
+      "used": true,
       "questions": [
         {
           "question": "Que signifie le « S » sur le costume de Superman ?",
@@ -976,27 +976,13 @@
       ]
     }
   ],
-  "phase": "finished",
-  "theme": 13,
-  "player": 3,
-  "streak": true,
+  "phase": "grid",
+  "theme": null,
+  "player": null,
+  "streak": false,
   "startedAt": null,
-  "remaining": 0,
-  "answers": [
-    false,
-    true,
-    false,
-    true,
-    true,
-    false,
-    false,
-    false,
-    false,
-    true,
-    true,
-    false,
-    true
-  ],
+  "remaining": 90,
+  "answers": [],
   "history": [
     {
       "player": 1,
@@ -1013,7 +999,15 @@
       "streak": true,
       "points": 4,
       "at": "2026-11-15T15:28:49.560Z"
+    },
+    {
+      "player": 3,
+      "theme": 13,
+      "correct": 6,
+      "streak": true,
+      "points": 12,
+      "at": "2026-11-15T15:33:20.010Z"
     }
   ],
-  "version": 81
+  "version": 82
 }
