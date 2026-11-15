@@ -442,7 +442,7 @@
     {
       "id": 6,
       "name": "Mythologie grecque",
-      "used": false,
+      "used": true,
       "questions": [
         {
           "question": "Qui est l'auteur des poèmes épiques L'Iliade et L'Odyssée ?",
@@ -976,28 +976,13 @@
       ]
     }
   ],
-  "phase": "finished",
-  "theme": 6,
-  "player": 6,
+  "phase": "grid",
+  "theme": null,
+  "player": null,
   "streak": false,
   "startedAt": null,
-  "remaining": 0,
-  "answers": [
-    false,
-    false,
-    false,
-    true,
-    false,
-    false,
-    false,
-    false,
-    true,
-    true,
-    false,
-    false,
-    false,
-    false
-  ],
+  "remaining": 90,
+  "answers": [],
   "history": [
     {
       "player": 1,
@@ -1094,7 +1079,15 @@
       "streak": false,
       "points": 3,
       "at": "2026-11-15T16:23:51.423Z"
+    },
+    {
+      "player": 6,
+      "theme": 6,
+      "correct": 3,
+      "streak": false,
+      "points": 3,
+      "at": "2026-11-15T16:28:17.402Z"
     }
   ],
-  "version": 288
+  "version": 289
 }
