@@ -700,7 +700,7 @@
       "theme": "Les Records en NBA",
       "question": "Quel joueur détient le record de 30 passes décisives lors d'un seul match NBA ?",
       "answer": "Scott Skiles (Il a réalisé cette performance avec Orlando en 1990)",
-      "used": false
+      "used": true
     },
     {
       "playerId": 7,
@@ -727,11 +727,11 @@
       "used": false
     }
   ],
-  "phase": "question",
+  "phase": "grid",
   "colorsVisible": false,
-  "selected": 44,
-  "revealed": true,
-  "turn": 7,
+  "selected": null,
+  "revealed": false,
+  "turn": 5,
   "scores": {
     "2": 6,
     "5": 9,
@@ -922,7 +922,15 @@
       "color": "vert",
       "correct": true,
       "points": 3
+    },
+    {
+      "number": 45,
+      "playerId": 7,
+      "ownerId": 7,
+      "color": "violet",
+      "correct": false,
+      "points": 0
     }
   ],
-  "version": 81
+  "version": 82
 }
