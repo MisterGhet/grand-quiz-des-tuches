@@ -107,7 +107,7 @@
     {
       "id": 1,
       "name": "Disney & Pixar",
-      "used": false,
+      "used": true,
       "questions": [
         {
           "question": "Quel est le titre du premier long métrage d'animation de Disney ?",
@@ -976,28 +976,13 @@
       ]
     }
   ],
-  "phase": "finished",
-  "theme": 1,
-  "player": 4,
-  "streak": true,
+  "phase": "grid",
+  "theme": null,
+  "player": null,
+  "streak": false,
   "startedAt": null,
-  "remaining": 0,
-  "answers": [
-    false,
-    false,
-    false,
-    false,
-    true,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    true
-  ],
+  "remaining": 90,
+  "answers": [],
   "history": [
     {
       "player": 1,
@@ -1022,7 +1007,15 @@
       "streak": true,
       "points": 12,
       "at": "2026-11-15T15:33:20.010Z"
+    },
+    {
+      "player": 4,
+      "theme": 1,
+      "correct": 2,
+      "streak": true,
+      "points": 4,
+      "at": "2026-11-15T15:38:42.636Z"
     }
   ],
-  "version": 102
+  "version": 103
 }
