@@ -914,64 +914,64 @@
       "used": false,
       "questions": [
         {
-          "question": "",
-          "answer": ""
+          "question": "Que signifie le « S » sur le costume de Superman ?",
+          "answer": "Espoir"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quel super-héros est aveugle et pourtant rend justice à New York ?",
+          "answer": "Daredevil"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Dans le premier film Avengers, de combien de super-héros l'équipe était-elle composée ?",
+          "answer": "6 (Iron Man, Captain America, Thor, Hulk, Black Widow et Hawkeye)"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quel super-héros de DC est connu pour être l'homme le plus rapide du monde ?",
+          "answer": "Flash"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": " Quel est le principal pouvoir de Wolverine ?",
+          "answer": "La Régénération"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "De quelle planète vient J'onn J'onzz, l'ami de Superman ?",
+          "answer": "Mars"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Qui a fondé la compagnie que dirige Tony Stark ?",
+          "answer": "Howard Stark, son Père"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Dans quelle ville vit Bruce Wayne ?",
+          "answer": "Gotham City"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quel est le vrai nom de Catwoman ?",
+          "answer": "Selina Kyle"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Qui est le principal rival du professeur X dans les X-Men ?",
+          "answer": "Magnéto"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quel objet utilise Cyclope, des X-Men, pour éviter de faire du mal aux innocents avec son pouvoir ?",
+          "answer": "Des lunettes de soleil"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quel acteur incarne le père de Star-Lord dans Les Gardiens de la Galaxie Vol. 2 ?",
+          "answer": "Kurt Russell (Dans le Rôle d'Ego)"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quel est le vrai nom de Captain America ?",
+          "answer": "Steve Rogers"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "À l'origine, quel est le métier de Captain Marvel ?",
+          "answer": "Pilote de Chasse"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quel célèbre super-héros Marvel a été créé à l'origine pour démontrer qu'un personnage ayant l'apparence d'un monstre pouvait devenir un héros ?",
+          "answer": "Hulk"
         }
       ]
     }
@@ -984,5 +984,5 @@
   "remaining": 90,
   "answers": [],
   "history": [],
-  "version": 26
+  "version": 27
 }
