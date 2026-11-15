@@ -476,7 +476,7 @@
       "theme": "Les Joueurs de Foot du PSG",
       "question": "Quel joueur du PSG a terminé troisième du classement du Ballon d'Or 2025 ?",
       "answer": "Vitinha",
-      "used": false
+      "used": true
     },
     {
       "playerId": 1,
@@ -727,11 +727,11 @@
       "used": false
     }
   ],
-  "phase": "question",
+  "phase": "grid",
   "colorsVisible": false,
-  "selected": 16,
-  "revealed": true,
-  "turn": 5,
+  "selected": null,
+  "revealed": false,
+  "turn": 2,
   "scores": {
     "2": 6,
     "5": 9,
@@ -898,7 +898,15 @@
       "color": "violet",
       "correct": false,
       "points": 0
+    },
+    {
+      "number": 17,
+      "playerId": 5,
+      "ownerId": 4,
+      "color": "blanc",
+      "correct": false,
+      "points": 0
     }
   ],
-  "version": 72
+  "version": 73
 }
