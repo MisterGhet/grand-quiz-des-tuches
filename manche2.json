@@ -976,11 +976,11 @@
       ]
     }
   ],
-  "phase": "preview",
+  "phase": "running",
   "theme": 7,
   "player": 3,
   "streak": false,
-  "startedAt": null,
+  "startedAt": 1794758864053,
   "remaining": 90,
   "answers": [],
   "history": [
@@ -1057,5 +1057,5 @@
       "at": "2026-11-15T16:07:03.853Z"
     }
   ],
-  "version": 226
+  "version": 227
 }
