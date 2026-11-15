@@ -604,7 +604,7 @@
       "theme": "Le Règne Animal",
       "question": "Quel mollusque marin possède des pupilles caractéristiques en forme de W ?",
       "answer": "La Seiche",
-      "used": false
+      "used": true
     },
     {
       "playerId": 2,
@@ -727,11 +727,11 @@
       "used": true
     }
   ],
-  "phase": "question",
+  "phase": "grid",
   "colorsVisible": false,
-  "selected": 32,
-  "revealed": true,
-  "turn": 2,
+  "selected": null,
+  "revealed": false,
+  "turn": 6,
   "scores": {
     "2": 6,
     "5": 9,
@@ -970,7 +970,15 @@
       "color": "rouge",
       "correct": false,
       "points": 0
+    },
+    {
+      "number": 33,
+      "playerId": 2,
+      "ownerId": 2,
+      "color": "jaune",
+      "correct": false,
+      "points": 0
     }
   ],
-  "version": 99
+  "version": 100
 }
