@@ -984,7 +984,8 @@
   "remaining": 90,
   "answers": [
     true,
-    false
+    false,
+    true
   ],
   "history": [
     {
@@ -1044,5 +1045,5 @@
       "at": "2026-11-15T15:53:53.892Z"
     }
   ],
-  "version": 170
+  "version": 171
 }
