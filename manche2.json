@@ -378,64 +378,64 @@
       "used": false,
       "questions": [
         {
-          "question": "",
-          "answer": ""
+          "question": "Quel est le nom de famille des sœurs dans Charmed ?",
+          "answer": "Halliwell"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quel est le métier de Monica dans Friends ?",
+          "answer": "Cheffe Cuisinière"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Dans How I Met Your Mother, combien de saisons faut-il à Ted Mosby pour rencontrer sa femme ?",
+          "answer": "9 Saisons"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Dans Stargate, à quel peuple appartient Teal'c ?",
+          "answer": "Les Jaffas"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quel acteur est le héros de Californication ?",
+          "answer": "David Duchovny"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Dans la saison 3 de Prison Break, quel est le nom de la prison dont doit s'évader Michael Scofield au Panama ?",
+          "answer": "Sona"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Dans Doctor Who, quel moyen de transport utilise le Docteur pour voyager ?",
+          "answer": "Une Cabine Téléphonique"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Combien d'enfants ont Ned et Catelyn Stark dans Game of Thrones ?",
+          "answer": "5 enfants (Robb, Sansa, Arya, Bran et Rickon)"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Comment s'appelle le coéquipier de Rick Grimes au début de The Walking Dead ?",
+          "answer": "Shane Walsh"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Comment s'appelle la voiture de David Hasselhoff dans K2000 ?",
+          "answer": "KITT"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "De quelle couleur sont les maillots de bain dans Alerte à Malibu ?",
+          "answer": "Rouge"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quel est le nom de famille de Bree dans Desperate Housewives ?",
+          "answer": "Van de Kamp"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Comment s'appelle l'héroïne de Stranger Things ?",
+          "answer": "Eleven"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Dans Breaking Bad, quel est le pseudonyme utilisé par Walter White pour ses activités criminelles ?",
+          "answer": "Heisenberg"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Dans la série You, comment s'appelle la femme que Joe Goldberg rencontre dans la saison 2 et qu'il épouse par la suite ?",
+          "answer": "Love Quinn"
         }
       ]
     },
@@ -984,5 +984,5 @@
   "remaining": 90,
   "answers": [],
   "history": [],
-  "version": 16
+  "version": 17
 }
