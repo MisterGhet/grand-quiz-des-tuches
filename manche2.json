@@ -8,7 +8,7 @@
     {
       "id": 2,
       "name": "Lilla",
-      "streakUsed": false
+      "streakUsed": true
     },
     {
       "id": 3,
@@ -976,11 +976,11 @@
       ]
     }
   ],
-  "phase": "preview",
+  "phase": "running",
   "theme": 3,
   "player": 2,
   "streak": true,
-  "startedAt": null,
+  "startedAt": 1794756269385,
   "remaining": 90,
   "answers": [],
   "history": [
@@ -993,5 +993,5 @@
       "at": "2026-11-15T15:22:41.622Z"
     }
   ],
-  "version": 48
+  "version": 49
 }
