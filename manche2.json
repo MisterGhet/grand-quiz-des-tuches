@@ -244,64 +244,64 @@
       "used": false,
       "questions": [
         {
-          "question": "",
-          "answer": ""
+          "question": "Au bowling, combien de strikes consécutifs faut-il pour réaliser une partie parfaite ?",
+          "answer": "12 Strikes Consécutifs"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Que représentent les cinq anneaux du drapeau olympique ?",
+          "answer": "L'union des Cinq Continents"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Dans quelle ville ont eu lieu les premiers Jeux olympiques modernes en 1896 ?",
+          "answer": "Athènes, en Grèce"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "En 1936, qui présida l'ouverture des Jeux olympiques de Berlin ?",
+          "answer": "Adolf Hitler"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "À la boxe, que signifie le sigle KO ?",
+          "answer": "Knock-Out"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quel sport pratique Harry Potter ?",
+          "answer": "Le Quidditch"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Comment s'appelle le célèbre gardien de but français, reconnaissable à son crâne lisse ?",
+          "answer": "Fabien Barthez"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quel athlète est le seul à avoir remporté une médaille d'or aux Jeux olympiques d'été et aux Jeux olympiques d'hiver dans deux disciplines différentes ?",
+          "answer": "Eddie Eagan (Boxe en 1920 et Bobsleigh en 1932)"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Combien de joueurs compte une équipe de beach-volley ?",
+          "answer": "2 Joueurs"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quel est l'autre nom qui désigne le tennis de table ?",
+          "answer": "Le Ping-Pong"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "De quel sport le Balai d'argent couronne-t-il chaque année le championnat du monde ?",
+          "answer": "Le Curling"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quel est le sport national du Japon ?",
+          "answer": "Le Sumo"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Combien de fois Teddy Riner a-t-il décroché la médaille d'or aux Jeux olympiques ?",
+          "answer": "5 fois (3 en Individuel et 2 par équipes Mixtes) "
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quel sport pratiquent les héros de Rasta Rockett ?",
+          "answer": "Le Bobsleigh "
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quel pays a remporté la toute première Coupe du monde de rugby en 1987 ?",
+          "answer": "La Nouvelle-Zélande"
         }
       ]
     },
@@ -984,5 +984,5 @@
   "remaining": 90,
   "answers": [],
   "history": [],
-  "version": 11
+  "version": 12
 }
