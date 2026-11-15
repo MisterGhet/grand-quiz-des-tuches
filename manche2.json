@@ -847,64 +847,64 @@
       "used": false,
       "questions": [
         {
-          "question": "",
-          "answer": ""
+          "question": "Quelle marque de sport possède un logo représentant une virgule appelée « Swoosh » ?",
+          "answer": "Nike"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quelle marque de vêtements est représentée par un crocodile vert ?",
+          "answer": "Lacoste"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quelle célèbre marque de jeux vidéo a été fondée au Japon en 1889, bien avant l'invention des consoles ?",
+          "answer": "Nintendo"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quelle marque de voitures tire son nom du mot latin signifiant « j'écoute » ?",
+          "answer": "Audi"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Sous quel nom la marque Nike était-elle connue avant de changer de nom en 1971 ?",
+          "answer": "Blue Ribbon Sports"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quelle entreprise de technologie portait initialement le nom de « BackRub » ?",
+          "answer": "Google"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quelle célèbre marque de vêtements a été créée par deux frères allemands qui sont ensuite devenus concurrents ?",
+          "answer": "Adidas (Fondée par Adolf Dassler, Tandis que son Frère Rudolf a Fondé Puma)"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quelle célèbre marque de jouets tire son nom d'une expression danoise signifiant « joue bien » ?",
+          "answer": "LEGO"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quelle marque de cosmétiques a été créée en 1909 par le chimiste français Eugène Schueller ?",
+          "answer": "L'Oréal"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": " Quelle marque de voitures de luxe utilise une statuette appelée « Spirit of Ecstasy » sur le capot de ses véhicules ?",
+          "answer": "Rolls-Royce"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quelle marque de voitures japonaise a été créée par Kiichiro Toyoda, mais a choisi de modifier légèrement son nom ?",
+          "answer": "Toyota"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quelle célèbre marque de montres suisse a inventé la première montre-bracelet étanche commercialisée sous le nom d'« Oyster » en 1926 ?",
+          "answer": "Rolex"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quelle entreprise de commerce en ligne utilisait autrefois le slogan « Earth's Biggest Bookstore » ?",
+          "answer": "Amazon"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quelle célèbre marque de chaussures doit son nom à un médecin allemand qui a conçu des semelles orthopédiques ?",
+          "answer": "Dr. Martens (du Docteur Klaus Märtens)"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quelle célèbre marque de vêtements a été créée en 1965 par trois frères italiens et leur sœur, et porte leur nom de famille ?",
+          "answer": "Benetton"
         }
       ]
     },
@@ -984,5 +984,5 @@
   "remaining": 90,
   "answers": [],
   "history": [],
-  "version": 24
+  "version": 25
 }
