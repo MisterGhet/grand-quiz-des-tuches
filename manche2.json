@@ -986,6 +986,7 @@
     true,
     true,
     true,
+    false,
     false
   ],
   "history": [
@@ -1094,5 +1095,5 @@
       "at": "2026-11-15T16:28:17.402Z"
     }
   ],
-  "version": 295
+  "version": 296
 }
