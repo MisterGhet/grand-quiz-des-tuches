@@ -652,7 +652,7 @@
       "theme": "La Formule 1 Depuis les Années 2000",
       "question": "Lors du Grand Prix d’Azerbaïdjan 2018, deux coéquipiers se sont percutés, provoquant leur double abandon. De quelle écurie s’agissait-il ?",
       "answer": "Red Bull Racing",
-      "used": false
+      "used": true
     },
     {
       "playerId": 5,
@@ -727,15 +727,15 @@
       "used": true
     }
   ],
-  "phase": "question",
+  "phase": "grid",
   "colorsVisible": false,
-  "selected": 38,
-  "revealed": true,
-  "turn": 6,
+  "selected": null,
+  "revealed": false,
+  "turn": 7,
   "scores": {
     "2": 6,
     "5": 9,
-    "6": 18,
+    "6": 21,
     "7": 9
   },
   "history": [
@@ -946,7 +946,15 @@
       "color": "jaune",
       "correct": false,
       "points": 0
+    },
+    {
+      "number": 39,
+      "playerId": 6,
+      "ownerId": 6,
+      "color": "vert",
+      "correct": true,
+      "points": 3
     }
   ],
-  "version": 90
+  "version": 91
 }
