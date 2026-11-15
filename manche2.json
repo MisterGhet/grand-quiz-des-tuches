@@ -844,7 +844,7 @@
     {
       "id": 12,
       "name": "Marques et logos",
-      "used": false,
+      "used": true,
       "questions": [
         {
           "question": "Quelle marque de sport possède un logo représentant une virgule appelée « Swoosh » ?",
@@ -976,24 +976,22 @@
       ]
     }
   ],
-  "phase": "finished",
-  "theme": 12,
-  "player": 1,
-  "streak": true,
+  "phase": "grid",
+  "theme": null,
+  "player": null,
+  "streak": false,
   "startedAt": null,
-  "remaining": 0,
-  "answers": [
-    true,
-    true,
-    false,
-    false,
-    false,
-    false,
-    false,
-    true,
-    false,
-    true
+  "remaining": 90,
+  "answers": [],
+  "history": [
+    {
+      "player": 1,
+      "theme": 12,
+      "correct": 4,
+      "streak": true,
+      "points": 8,
+      "at": "2026-11-15T15:22:41.622Z"
+    }
   ],
-  "history": [],
-  "version": 45
+  "version": 46
 }
