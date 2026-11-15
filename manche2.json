@@ -241,7 +241,7 @@
     {
       "id": 3,
       "name": "Sport",
-      "used": false,
+      "used": true,
       "questions": [
         {
           "question": "Au bowling, combien de strikes consécutifs faut-il pour réaliser une partie parfaite ?",
@@ -976,27 +976,13 @@
       ]
     }
   ],
-  "phase": "finished",
-  "theme": 3,
-  "player": 2,
-  "streak": true,
+  "phase": "grid",
+  "theme": null,
+  "player": null,
+  "streak": false,
   "startedAt": null,
-  "remaining": 0,
-  "answers": [
-    false,
-    false,
-    false,
-    false,
-    false,
-    true,
-    false,
-    false,
-    false,
-    true,
-    false,
-    false,
-    false
-  ],
+  "remaining": 90,
+  "answers": [],
   "history": [
     {
       "player": 1,
@@ -1005,7 +991,15 @@
       "streak": true,
       "points": 8,
       "at": "2026-11-15T15:22:41.622Z"
+    },
+    {
+      "player": 2,
+      "theme": 3,
+      "correct": 2,
+      "streak": true,
+      "points": 4,
+      "at": "2026-11-15T15:28:49.560Z"
     }
   ],
-  "version": 63
+  "version": 64
 }
