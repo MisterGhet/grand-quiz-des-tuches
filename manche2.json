@@ -976,9 +976,9 @@
       ]
     }
   ],
-  "phase": "grid",
-  "theme": null,
-  "player": null,
+  "phase": "preview",
+  "theme": 5,
+  "player": 5,
   "streak": false,
   "startedAt": null,
   "remaining": 90,
@@ -1017,5 +1017,5 @@
       "at": "2026-11-15T15:38:42.636Z"
     }
   ],
-  "version": 111
+  "version": 112
 }
