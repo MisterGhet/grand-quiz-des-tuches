@@ -692,7 +692,7 @@
       "theme": "Le Règne Animal",
       "question": "Chez quel animal marin le mâle porte-t-il les œufs dans une poche incubatrice ?",
       "answer": "L'Hippocampe",
-      "used": false
+      "used": true
     },
     {
       "playerId": 7,
@@ -727,13 +727,13 @@
       "used": true
     }
   ],
-  "phase": "question",
+  "phase": "grid",
   "colorsVisible": false,
-  "selected": 43,
-  "revealed": true,
-  "turn": 2,
+  "selected": null,
+  "revealed": false,
+  "turn": 6,
   "scores": {
-    "2": 6,
+    "2": 9,
     "5": 9,
     "6": 24,
     "7": 15
@@ -1002,7 +1002,15 @@
       "color": "violet",
       "correct": false,
       "points": 0
+    },
+    {
+      "number": 44,
+      "playerId": 2,
+      "ownerId": 2,
+      "color": "jaune",
+      "correct": true,
+      "points": 3
     }
   ],
-  "version": 111
+  "version": 112
 }
