@@ -40,7 +40,7 @@
     {
       "id": 0,
       "name": "Animaux et nature",
-      "used": false,
+      "used": true,
       "questions": [
         {
           "question": "Par quelle partie de leur corps les chiens transpirent-ils principalement ?",
@@ -976,27 +976,13 @@
       ]
     }
   ],
-  "phase": "finished",
-  "theme": 0,
-  "player": 7,
-  "streak": true,
+  "phase": "grid",
+  "theme": null,
+  "player": null,
+  "streak": false,
   "startedAt": null,
-  "remaining": 0,
-  "answers": [
-    true,
-    true,
-    false,
-    true,
-    false,
-    true,
-    false,
-    false,
-    true,
-    true,
-    true,
-    false,
-    true
-  ],
+  "remaining": 90,
+  "answers": [],
   "history": [
     {
       "player": 1,
@@ -1045,7 +1031,15 @@
       "streak": true,
       "points": 20,
       "at": "2026-11-15T15:48:56.074Z"
+    },
+    {
+      "player": 7,
+      "theme": 0,
+      "correct": 8,
+      "streak": true,
+      "points": 16,
+      "at": "2026-11-15T15:53:53.892Z"
     }
   ],
-  "version": 165
+  "version": 166
 }
