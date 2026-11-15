@@ -576,7 +576,7 @@
     {
       "id": 8,
       "name": "Célébrités",
-      "used": false,
+      "used": true,
       "questions": [
         {
           "question": "Comment s'appelle la femme de Ryan Reynolds ?",
@@ -976,12 +976,12 @@
       ]
     }
   ],
-  "phase": "finished",
-  "theme": 8,
-  "player": 1,
+  "phase": "grid",
+  "theme": null,
+  "player": null,
   "streak": false,
   "startedAt": null,
-  "remaining": 0,
+  "remaining": 90,
   "answers": [],
   "history": [
     {
@@ -1047,7 +1047,15 @@
       "streak": false,
       "points": 7,
       "at": "2026-11-15T16:00:30.724Z"
+    },
+    {
+      "player": 1,
+      "theme": 8,
+      "correct": 0,
+      "streak": false,
+      "points": 0,
+      "at": "2026-11-15T16:07:03.853Z"
     }
   ],
-  "version": 224
+  "version": 225
 }
