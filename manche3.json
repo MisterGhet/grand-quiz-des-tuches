@@ -516,7 +516,7 @@
       "theme": "Le Règne Animal",
       "question": "Combien de pattes possède une araignée ?",
       "answer": "8",
-      "used": false
+      "used": true
     },
     {
       "playerId": 2,
@@ -727,11 +727,11 @@
       "used": false
     }
   ],
-  "phase": "question",
+  "phase": "grid",
   "colorsVisible": false,
-  "selected": 21,
-  "revealed": true,
-  "turn": 2,
+  "selected": null,
+  "revealed": false,
+  "turn": 6,
   "scores": {
     "2": 3,
     "5": 6,
@@ -810,7 +810,15 @@
       "color": "rouge",
       "correct": false,
       "points": 0
+    },
+    {
+      "number": 22,
+      "playerId": 2,
+      "ownerId": 2,
+      "color": "jaune",
+      "correct": false,
+      "points": 0
     }
   ],
-  "version": 39
+  "version": 40
 }
