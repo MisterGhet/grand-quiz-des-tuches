@@ -646,64 +646,64 @@
       "used": false,
       "questions": [
         {
-          "question": "",
-          "answer": ""
+          "question": "Quel fleuve traverse Paris ?",
+          "answer": "La Seine"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "À quel continent appartient la Nouvelle-Zélande ?",
+          "answer": "L'Océanie"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quel pays est de loin la plus grande île du monde ?",
+          "answer": "L'Australie"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "En 2019, quel pays était la deuxième puissance économique mondiale ?",
+          "answer": "La Russie"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quelle langue est majoritairement parlée en Inde ?",
+          "answer": "L'hindi"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quel État des États-Unis a la plus grande superficie ?",
+          "answer": "L'Alaska"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quelle monnaie est utilisée en Norvège ?",
+          "answer": "La Couronne Norvégienne"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quel canal situé en Égypte relie la mer Méditerranée à la mer Rouge ?",
+          "answer": "Le Canal de Suez"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quel pays a pour capitale Oulan-Bator ?",
+          "answer": "La Mongolie"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quel est le nom d'origine du célèbre pont d'Avignon ?",
+          "answer": "Le pont Saint-Bénézet"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quel pays possède le plus grand nombre de fuseaux horaires au monde ?",
+          "answer": "La France (12 fuseaux horaires, voire 13 selon la période de l'année) "
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quelle est la capitale du Canada ?",
+          "answer": "Ottawa"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quel détroit sépare l'Espagne du Maroc ?",
+          "answer": "Le Détroit de Gibraltar  "
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Dans quel pays se trouve la cité antique de Pétra, célèbre pour ses monuments taillés dans la roche ?",
+          "answer": "La Jordanie"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quel est le seul pays au monde dont le drapeau national n'est pas rectangulaire ?",
+          "answer": "Le Népal"
         }
       ]
     },
@@ -984,5 +984,5 @@
   "remaining": 90,
   "answers": [],
   "history": [],
-  "version": 21
+  "version": 22
 }
