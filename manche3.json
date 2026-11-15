@@ -380,7 +380,7 @@
       "theme": "Le Règne Animal",
       "question": "Quel animal est connu pour avoir des empreintes digitales très similaires à celles des humains ?",
       "answer": "Le Koala",
-      "used": false
+      "used": true
     },
     {
       "playerId": 2,
@@ -727,11 +727,11 @@
       "used": false
     }
   ],
-  "phase": "question",
+  "phase": "grid",
   "colorsVisible": false,
-  "selected": 4,
-  "revealed": true,
-  "turn": 2,
+  "selected": null,
+  "revealed": false,
+  "turn": 6,
   "scores": {
     "2": 0,
     "5": 3,
@@ -746,7 +746,15 @@
       "color": "rouge",
       "correct": true,
       "points": 3
+    },
+    {
+      "number": 5,
+      "playerId": 2,
+      "ownerId": 2,
+      "color": "jaune",
+      "correct": false,
+      "points": 0
     }
   ],
-  "version": 15
+  "version": 16
 }
