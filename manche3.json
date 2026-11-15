@@ -396,7 +396,7 @@
       "theme": "La Saga Bridget Jones",
       "question": "De quelle couleur est la soupe que Bridget prépare accidentellement pour son dîner d'anniversaire dans le premier film ?",
       "answer": "Bleue (Elle utilise de la ficelle bleue pour attacher ses poireaux)",
-      "used": true
+      "used": false
     },
     {
       "playerId": 6,
@@ -731,22 +731,13 @@
   "colorsVisible": false,
   "selected": null,
   "revealed": false,
-  "turn": 2,
+  "turn": 5,
   "scores": {
     "2": 0,
-    "5": 3,
+    "5": 0,
     "6": 0,
     "7": 0
   },
-  "history": [
-    {
-      "number": 7,
-      "playerId": 5,
-      "ownerId": 5,
-      "color": "rouge",
-      "correct": true,
-      "points": 3
-    }
-  ],
-  "version": 9
+  "history": [],
+  "version": 10
 }
