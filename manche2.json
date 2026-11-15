@@ -643,7 +643,7 @@
     {
       "id": 9,
       "name": "Géographie",
-      "used": false,
+      "used": true,
       "questions": [
         {
           "question": "Quel fleuve traverse Paris ?",
@@ -976,25 +976,13 @@
       ]
     }
   ],
-  "phase": "finished",
-  "theme": 9,
-  "player": 4,
+  "phase": "grid",
+  "theme": null,
+  "player": null,
   "streak": false,
   "startedAt": null,
-  "remaining": 0,
-  "answers": [
-    true,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false
-  ],
+  "remaining": 90,
+  "answers": [],
   "history": [
     {
       "player": 1,
@@ -1075,7 +1063,15 @@
       "streak": false,
       "points": 1,
       "at": "2026-11-15T16:11:28.193Z"
+    },
+    {
+      "player": 4,
+      "theme": 9,
+      "correct": 1,
+      "streak": false,
+      "points": 1,
+      "at": "2026-11-15T16:17:56.324Z"
     }
   ],
-  "version": 256
+  "version": 257
 }
