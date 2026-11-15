@@ -572,7 +572,7 @@
       "theme": "La Saga Bridget Jones",
       "question": "Quel métier Bridget Jones décide-t-elle d'exercer après avoir quitté son poste dans la maison d'édition de Daniel Cleaver ?",
       "answer": "Journaliste / Reporter à la télévision",
-      "used": false
+      "used": true
     },
     {
       "playerId": 7,
@@ -727,13 +727,13 @@
       "used": true
     }
   ],
-  "phase": "question",
+  "phase": "grid",
   "colorsVisible": false,
-  "selected": 28,
-  "revealed": true,
-  "turn": 2,
+  "selected": null,
+  "revealed": false,
+  "turn": 6,
   "scores": {
-    "2": 9,
+    "2": 11,
     "5": 9,
     "6": 27,
     "7": 15
@@ -1098,7 +1098,15 @@
       "color": "rouge",
       "correct": false,
       "points": 0
+    },
+    {
+      "number": 29,
+      "playerId": 2,
+      "ownerId": 5,
+      "color": "rouge",
+      "correct": true,
+      "points": 2
     }
   ],
-  "version": 154
+  "version": 155
 }
