@@ -388,7 +388,7 @@
       "theme": "Le Règne Animal",
       "question": "Quel animal du désert possède une troisième paupière qui protège ses yeux du sable ?",
       "answer": "Le Chameau ou le Dromadaire",
-      "used": false
+      "used": true
     },
     {
       "playerId": 5,
@@ -727,13 +727,13 @@
       "used": false
     }
   ],
-  "phase": "question",
+  "phase": "grid",
   "colorsVisible": false,
-  "selected": 5,
-  "revealed": true,
-  "turn": 2,
+  "selected": null,
+  "revealed": false,
+  "turn": 6,
   "scores": {
-    "2": 0,
+    "2": 3,
     "5": 6,
     "6": 3,
     "7": 0
@@ -778,7 +778,15 @@
       "color": "rouge",
       "correct": true,
       "points": 3
+    },
+    {
+      "number": 6,
+      "playerId": 2,
+      "ownerId": 2,
+      "color": "jaune",
+      "correct": true,
+      "points": 3
     }
   ],
-  "version": 27
+  "version": 28
 }
