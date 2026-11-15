@@ -780,64 +780,64 @@
       "used": false,
       "questions": [
         {
-          "question": "",
-          "answer": ""
+          "question": "En quelle année a eu lieu la prise de la Bastille ?",
+          "answer": "1789 (Le 14 juillet)"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "En quelle année s'est terminé la Seconde Guerre mondiale ?",
+          "answer": "En 1945"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quel était le nom de famille de Napoléon Ier ?",
+          "answer": "Bonaparte"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "La bataille d'Azincourt est-elle une victoire ou une défaite française ?",
+          "answer": "Une Défaite Française (1415, Face aux Anglais)"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quelle régente du royaume de France est également la mère de la reine Margot ?",
+          "answer": "Catherine de Médicis"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quel est le nom du fils de Childéric Ier, premier roi mérovingien ?",
+          "answer": "Clovis Ier"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quel traité signé en 843 a partagé l'Empire carolingien entre les trois petits-fils de Charlemagne ?",
+          "answer": "Le Traité de Verdun"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Combien de temps a duré la guerre de Cent Ans ?",
+          "answer": "116 ans (De 1337 à 1453)"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "D'où le général de Gaulle a-t-il lancé l'appel du 18 juin 1940 ?",
+          "answer": "Londres, Depuis les Studios de la BBC"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quel roi était surnommé le Roi-Soleil ?",
+          "answer": "Louis XIV (14)"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "En quelle année Napoléon Bonaparte est-il devenu empereur des Français ?",
+          "answer": "En 1804"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quel roi de France était surnommé « le Vert Galant » ?",
+          "answer": "Henri IV (4)"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quel célèbre ministre de Louis XIII (13) était surnommé « l'Éminence rouge » ?",
+          "answer": "Le Cardinal de Richelieu "
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quel célèbre monument parisien devait initialement être démonté 20 ans après sa construction pour l'Exposition universelle de 1889 ?",
+          "answer": "La Tour Eiffel"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "En quelle année les femmes ont-elles obtenu le droit de vote en France ?",
+          "answer": "En 1944"
         }
       ]
     },
@@ -984,5 +984,5 @@
   "remaining": 90,
   "answers": [],
   "history": [],
-  "version": 23
+  "version": 24
 }
