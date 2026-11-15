@@ -436,7 +436,7 @@
       "theme": "La Saga Bridget Jones",
       "question": "Dans Bridget Jones : Folle de lui (quatrième film), dans quel pays Mark Darcy est-il mort lors d'une mission humanitaire ?",
       "answer": "Le Soudan (Ce drame a eu lieu quatre ans avant les événements du film)",
-      "used": false
+      "used": true
     },
     {
       "playerId": 6,
@@ -727,11 +727,11 @@
       "used": false
     }
   ],
-  "phase": "question",
+  "phase": "grid",
   "colorsVisible": false,
-  "selected": 11,
-  "revealed": true,
-  "turn": 5,
+  "selected": null,
+  "revealed": false,
+  "turn": 2,
   "scores": {
     "2": 3,
     "5": 6,
@@ -802,7 +802,15 @@
       "color": "violet",
       "correct": true,
       "points": 3
+    },
+    {
+      "number": 12,
+      "playerId": 5,
+      "ownerId": 5,
+      "color": "rouge",
+      "correct": false,
+      "points": 0
     }
   ],
-  "version": 36
+  "version": 37
 }
