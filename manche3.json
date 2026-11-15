@@ -492,7 +492,7 @@
       "theme": "La Saga Bridget Jones",
       "question": "Dans Bridget Jones Baby (troisième film), quel est le prénom de l'Américain qui pourrait être le père du bébé de Bridget ?",
       "answer": "Jack (Jack Qwant est interprété par Patrick Dempsey)",
-      "used": false
+      "used": true
     },
     {
       "playerId": 4,
@@ -727,11 +727,11 @@
       "used": false
     }
   ],
-  "phase": "question",
+  "phase": "grid",
   "colorsVisible": false,
-  "selected": 18,
-  "revealed": true,
-  "turn": 5,
+  "selected": null,
+  "revealed": false,
+  "turn": 2,
   "scores": {
     "2": 3,
     "5": 9,
@@ -866,7 +866,15 @@
       "color": "violet",
       "correct": true,
       "points": 3
+    },
+    {
+      "number": 19,
+      "playerId": 5,
+      "ownerId": 5,
+      "color": "rouge",
+      "correct": false,
+      "points": 0
     }
   ],
-  "version": 60
+  "version": 61
 }
