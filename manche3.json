@@ -676,7 +676,7 @@
       "theme": "Les Records en NBA",
       "question": "Quel joueur détient le record du plus grand nombre de tirs à trois points réussis en carrière en NBA ?",
       "answer": "Stephen Curry (Il a dépassé Ray Allen en 2021)",
-      "used": false
+      "used": true
     },
     {
       "playerId": 5,
@@ -727,11 +727,11 @@
       "used": true
     }
   ],
-  "phase": "question",
+  "phase": "grid",
   "colorsVisible": false,
-  "selected": 41,
-  "revealed": true,
-  "turn": 5,
+  "selected": null,
+  "revealed": false,
+  "turn": 2,
   "scores": {
     "2": 6,
     "5": 9,
@@ -994,7 +994,15 @@
       "color": "violet",
       "correct": true,
       "points": 3
+    },
+    {
+      "number": 42,
+      "playerId": 5,
+      "ownerId": 7,
+      "color": "violet",
+      "correct": false,
+      "points": 0
     }
   ],
-  "version": 108
+  "version": 109
 }
