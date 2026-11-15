@@ -579,64 +579,64 @@
       "used": false,
       "questions": [
         {
-          "question": "",
-          "answer": ""
+          "question": "Comment s'appelle la femme de Ryan Reynolds ?",
+          "answer": "Blake Lively"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Combien de fois Leonardo DiCaprio s'est-il marié ?",
+          "answer": "Jamais"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quelles célèbres sœurs se sont faites connaître dans la série La Fête à la maison ?",
+          "answer": "Les Sœurs Olsen (Mary-Kate et Ashley Olsen)"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quelle légende du rock français est décédée en 2017 ?",
+          "answer": "Johnny Hallyday"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quelle célébrité s'est faite connaître grâce à une scène dans la piscine de l'émission Loft Story ?",
+          "answer": "Loana"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Comment s'appelle la fille de Kim Kardashian née début 2018 ?",
+          "answer": "Chicago West"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quel ancien athlète masculin spécialiste du décathlon a changé de sexe en 2017 ?",
+          "answer": "Caitlyn Jenner (Anciennement Bruce Jenner)"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quel rappeur a réalisé son clip « Défaite de famille » entièrement sur Snapchat ?",
+          "answer": "Orelsan"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quel acteur donne la réplique à Coluche dans le film L'Aile ou la Cuisse ?",
+          "answer": "Louis de Funès"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quelle actrice s'est mariée avec Tony Parker avant de divorcer cinq ans plus tard ?",
+          "answer": "Eva Longoria"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quelle célèbre chanteuse est surnommée « Queen B » ?",
+          "answer": "Beyoncé"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quelle célèbre mannequin britannique a été surnommée « La Brindille » en raison de sa silhouette ?",
+          "answer": "Kate Moss"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quelle célébrité américaine a lancé la marque de cosmétiques Fenty Beauty en 2017 ?",
+          "answer": "Rihanna"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quelle célèbre héritière américaine est connue pour sa phrase « That's hot » ?",
+          "answer": "Paris Hilton"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quelle célèbre actrice a été arrêtée en 2001 pour avoir volé des vêtements dans un magasin de Beverly Hills ? ",
+          "answer": "Winona Ryder"
         }
       ]
     },
@@ -984,5 +984,5 @@
   "remaining": 90,
   "answers": [],
   "history": [],
-  "version": 20
+  "version": 21
 }
