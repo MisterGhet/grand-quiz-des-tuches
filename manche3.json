@@ -684,7 +684,7 @@
       "theme": "La Saga Bridget Jones",
       "question": "Quel est le prénom du fils de Bridget Jones et Mark Darcy ?",
       "answer": "Billy ou William (On le retrouve dans le quatrième film aux côtés de sa petite sœur Mabel)",
-      "used": true
+      "used": false
     },
     {
       "playerId": 2,
@@ -731,10 +731,10 @@
   "colorsVisible": false,
   "selected": null,
   "revealed": false,
-  "turn": 2,
+  "turn": 5,
   "scores": {
     "2": 9,
-    "5": 12,
+    "5": 9,
     "6": 27,
     "7": 15
   },
@@ -1090,15 +1090,7 @@
       "color": "blanc",
       "correct": false,
       "points": 0
-    },
-    {
-      "number": 43,
-      "playerId": 5,
-      "ownerId": 5,
-      "color": "rouge",
-      "correct": true,
-      "points": 3
     }
   ],
-  "version": 148
+  "version": 149
 }
