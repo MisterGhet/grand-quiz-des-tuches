@@ -983,7 +983,8 @@
   "startedAt": 1794756556361,
   "remaining": 90,
   "answers": [
-    false
+    false,
+    true
   ],
   "history": [
     {
@@ -1003,5 +1004,5 @@
       "at": "2026-11-15T15:28:49.560Z"
     }
   ],
-  "version": 68
+  "version": 69
 }
