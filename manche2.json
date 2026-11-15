@@ -2,37 +2,37 @@
   "players": [
     {
       "id": 1,
-      "name": "Joueur 1",
+      "name": "Nico",
       "streakUsed": false
     },
     {
       "id": 2,
-      "name": "Joueur 2",
+      "name": "Lilla",
       "streakUsed": false
     },
     {
       "id": 3,
-      "name": "Joueur 3",
+      "name": "Lyam",
       "streakUsed": false
     },
     {
       "id": 4,
-      "name": "Joueur 4",
+      "name": "Emma",
       "streakUsed": false
     },
     {
       "id": 5,
-      "name": "Joueur 5",
+      "name": "Anaïs",
       "streakUsed": false
     },
     {
       "id": 6,
-      "name": "Joueur 6",
+      "name": "Fanny",
       "streakUsed": false
     },
     {
       "id": 7,
-      "name": "Joueur 7",
+      "name": "Mamie Tuche",
       "streakUsed": false
     }
   ],
@@ -984,5 +984,5 @@
   "remaining": 90,
   "answers": [],
   "history": [],
-  "version": 27
+  "version": 28
 }
