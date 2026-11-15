@@ -6,8 +6,8 @@
       "theme": "Chat",
       "questions": [
         {
-          "question": "Quelle est le nom du chat de tonton ?",
-          "answer": "Felicia"
+          "question": "Comment s'appelle le cheval de Mulan ?",
+          "answer": "Khan"
         },
         {
           "question": "De quelle couleur est le parapluie de Mulan lorsqu'elle se rend chez l'entremetteuse au début du film ?",
@@ -340,5 +340,5 @@
   "turn": 0,
   "scores": {},
   "history": [],
-  "version": 1
+  "version": 2
 }
