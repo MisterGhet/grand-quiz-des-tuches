@@ -308,7 +308,7 @@
     {
       "id": 4,
       "name": "Cinéma",
-      "used": false,
+      "used": true,
       "questions": [
         {
           "question": "Qui est le réalisateur de Pacific Rim, Hellboy ou encore Blade II ?",
@@ -976,24 +976,13 @@
       ]
     }
   ],
-  "phase": "finished",
-  "theme": 4,
-  "player": 5,
+  "phase": "grid",
+  "theme": null,
+  "player": null,
   "streak": false,
   "startedAt": null,
-  "remaining": 0,
-  "answers": [
-    false,
-    false,
-    false,
-    true,
-    false,
-    false,
-    false,
-    true,
-    false,
-    true
-  ],
+  "remaining": 90,
+  "answers": [],
   "history": [
     {
       "player": 1,
@@ -1082,7 +1071,15 @@
       "streak": false,
       "points": 1,
       "at": "2026-11-15T16:17:56.324Z"
+    },
+    {
+      "player": 5,
+      "theme": 4,
+      "correct": 3,
+      "streak": false,
+      "points": 3,
+      "at": "2026-11-15T16:23:51.423Z"
     }
   ],
-  "version": 270
+  "version": 271
 }
