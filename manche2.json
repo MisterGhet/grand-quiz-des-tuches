@@ -990,7 +990,8 @@
     true,
     true,
     false,
-    false
+    false,
+    true
   ],
   "history": [
     {
@@ -1050,5 +1051,5 @@
       "at": "2026-11-15T15:53:53.892Z"
     }
   ],
-  "version": 176
+  "version": 177
 }
