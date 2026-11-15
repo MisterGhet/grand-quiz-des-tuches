@@ -508,7 +508,7 @@
       "theme": "Les Records en NBA",
       "question": "Quel joueur des Lakers a inscrit 81 points lors d'un match contre Toronto en 2006 ?",
       "answer": "Kobe Bryant (Il s'agissait alors du deuxième meilleur total historique)",
-      "used": false
+      "used": true
     },
     {
       "playerId": 2,
@@ -727,16 +727,16 @@
       "used": false
     }
   ],
-  "phase": "question",
+  "phase": "grid",
   "colorsVisible": false,
-  "selected": 20,
-  "revealed": true,
-  "turn": 7,
+  "selected": null,
+  "revealed": false,
+  "turn": 5,
   "scores": {
     "2": 3,
     "5": 9,
     "6": 12,
-    "7": 6
+    "7": 9
   },
   "history": [
     {
@@ -858,7 +858,15 @@
       "color": "vert",
       "correct": true,
       "points": 3
+    },
+    {
+      "number": 21,
+      "playerId": 7,
+      "ownerId": 7,
+      "color": "violet",
+      "correct": true,
+      "points": 3
     }
   ],
-  "version": 57
+  "version": 58
 }
