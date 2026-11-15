@@ -468,7 +468,7 @@
       "theme": "La Formule 1 Depuis les Années 2000",
       "question": "Quel pilote britannique a remporté son premier titre de champion du monde en 2025 avec McLaren ?",
       "answer": "Lando Norris (Il a remporté le championnat 2025 devant Max Verstappen)",
-      "used": false
+      "used": true
     },
     {
       "playerId": 4,
@@ -727,15 +727,15 @@
       "used": false
     }
   ],
-  "phase": "question",
+  "phase": "grid",
   "colorsVisible": false,
-  "selected": 15,
-  "revealed": true,
-  "turn": 6,
+  "selected": null,
+  "revealed": false,
+  "turn": 7,
   "scores": {
     "2": 3,
     "5": 9,
-    "6": 9,
+    "6": 12,
     "7": 6
   },
   "history": [
@@ -850,7 +850,15 @@
       "color": "jaune",
       "correct": false,
       "points": 0
+    },
+    {
+      "number": 16,
+      "playerId": 6,
+      "ownerId": 6,
+      "color": "vert",
+      "correct": true,
+      "points": 3
     }
   ],
-  "version": 54
+  "version": 55
 }
