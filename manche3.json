@@ -500,7 +500,7 @@
       "theme": "Les Joueurs de Foot du PSG",
       "question": "Quel joueur du PSG a inscrit un doublé lors de la finale de la Ligue des champions 2025 contre l'Inter Milan ?",
       "answer": "Désiré Doué",
-      "used": false
+      "used": true
     },
     {
       "playerId": 7,
@@ -727,11 +727,11 @@
       "used": true
     }
   ],
-  "phase": "question",
+  "phase": "grid",
   "colorsVisible": false,
-  "selected": 19,
-  "revealed": true,
-  "turn": 6,
+  "selected": null,
+  "revealed": false,
+  "turn": 7,
   "scores": {
     "2": 11,
     "5": 9,
@@ -1106,7 +1106,15 @@
       "color": "rouge",
       "correct": true,
       "points": 2
+    },
+    {
+      "number": 20,
+      "playerId": 6,
+      "ownerId": 4,
+      "color": "blanc",
+      "correct": false,
+      "points": 0
     }
   ],
-  "version": 157
+  "version": 158
 }
