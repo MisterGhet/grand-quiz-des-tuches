@@ -375,7 +375,7 @@
     {
       "id": 5,
       "name": "Séries",
-      "used": false,
+      "used": true,
       "questions": [
         {
           "question": "Quel est le nom de famille des sœurs dans Charmed ?",
@@ -976,25 +976,13 @@
       ]
     }
   ],
-  "phase": "finished",
-  "theme": 5,
-  "player": 5,
-  "streak": true,
+  "phase": "grid",
+  "theme": null,
+  "player": null,
+  "streak": false,
   "startedAt": null,
-  "remaining": 0,
-  "answers": [
-    true,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    false,
-    true
-  ],
+  "remaining": 90,
+  "answers": [],
   "history": [
     {
       "player": 1,
@@ -1027,7 +1015,15 @@
       "streak": true,
       "points": 4,
       "at": "2026-11-15T15:38:42.636Z"
+    },
+    {
+      "player": 5,
+      "theme": 5,
+      "correct": 2,
+      "streak": true,
+      "points": 4,
+      "at": "2026-11-15T15:44:52.089Z"
     }
   ],
-  "version": 127
+  "version": 128
 }
