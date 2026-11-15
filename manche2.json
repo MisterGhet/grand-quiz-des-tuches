@@ -512,64 +512,64 @@
       "used": false,
       "questions": [
         {
-          "question": "",
-          "answer": ""
+          "question": "Quel est le nom de la première console de l'histoire du jeu vidéo ?",
+          "answer": "Magnavox Odyssey"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quel jeu d'aventure sorti en 1998 a été considéré par les joueurs et la critique comme l'un des meilleurs jeux de tous les temps ?",
+          "answer": "The Legend of Zelda : Ocarina of Time"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quel célèbre jeu vidéo inspiré des pentominos a été créé par Alexey Pajitnov en 1985 ?",
+          "answer": "Tetris"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Comment s'appelait Mario avant de s'appeler Mario ?",
+          "answer": "Jumpman"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "De quelle célèbre série de jeux vidéo d'infiltration Sam Fisher est-il le héros ?",
+          "answer": "Splinter Cell"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Comment s'appelle l'héroïne de la série Metroid ?",
+          "answer": "Samus Aran"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "En quelle année est sorti le célèbre jeu Pac-Man ?",
+          "answer": "1980"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quel jeu vidéo sorti en 1972 est inspiré du tennis de table en vue du dessus ?",
+          "answer": "Pong"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Dans Animal Crossing, quel est le nom du personnage qui chante et joue de la guitare ?",
+          "answer": "Kéké Laglisse"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Dans Assassin's Creed II, comment s'appelle le célèbre assassin italien que l'on incarne ?",
+          "answer": "Ezio Auditore"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Dans Mario Kart, quel objet permet de devenir temporairement invincible et d'aller plus vite ?",
+          "answer": "L'étoile"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Dans le jeu d'horreur Obscure, dans quel type d'établissement se déroule l'histoire ?",
+          "answer": "Un Lycée"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Dans Guitar Hero, de combien de boutons colorés dispose la guitare classique utilisée pour jouer les notes ?",
+          "answer": "5 Boutons "
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Dans le jeu Les Sims, comment s'appelle la langue imaginaire parlée par les personnages ?",
+          "answer": "Le Simlish "
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Dans Minecraft, quelle créature verte explose lorsqu'elle s'approche du joueur ?",
+          "answer": "Le Creeper"
         }
       ]
     },
@@ -984,5 +984,5 @@
   "remaining": 90,
   "answers": [],
   "history": [],
-  "version": 19
+  "version": 20
 }
