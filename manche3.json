@@ -727,9 +727,9 @@
       "used": true
     }
   ],
-  "phase": "grid",
+  "phase": "question",
   "colorsVisible": false,
-  "selected": null,
+  "selected": 34,
   "revealed": false,
   "turn": 6,
   "scores": {
@@ -1012,5 +1012,5 @@
       "points": 3
     }
   ],
-  "version": 112
+  "version": 113
 }
