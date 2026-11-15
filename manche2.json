@@ -710,7 +710,7 @@
     {
       "id": 10,
       "name": "Nouvelles technologies",
-      "used": false,
+      "used": true,
       "questions": [
         {
           "question": "Quelle est la vitesse standard de transmission d'un modem ?",
@@ -976,27 +976,13 @@
       ]
     }
   ],
-  "phase": "finished",
-  "theme": 10,
-  "player": 1,
+  "phase": "grid",
+  "theme": null,
+  "player": null,
   "streak": false,
   "startedAt": null,
-  "remaining": 0,
-  "answers": [
-    true,
-    false,
-    true,
-    false,
-    true,
-    true,
-    false,
-    false,
-    true,
-    false,
-    false,
-    true,
-    true
-  ],
+  "remaining": 90,
+  "answers": [],
   "history": [
     {
       "player": 1,
@@ -1053,7 +1039,15 @@
       "streak": true,
       "points": 16,
       "at": "2026-11-15T15:53:53.892Z"
+    },
+    {
+      "player": 1,
+      "theme": 10,
+      "correct": 7,
+      "streak": false,
+      "points": 7,
+      "at": "2026-11-15T16:00:30.724Z"
     }
   ],
-  "version": 182
+  "version": 183
 }
