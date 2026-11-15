@@ -713,64 +713,64 @@
       "used": false,
       "questions": [
         {
-          "question": "",
-          "answer": ""
+          "question": "Quelle est la vitesse standard de transmission d'un modem ?",
+          "answer": "56 kbit/s"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Que signifie le sigle GSM ?",
+          "answer": "Global System for Mobile Communications"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quelle société informatique a lancé l'iPod en 2001 ?",
+          "answer": "Apple"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Dans quelle ville se déroule annuellement le CES (Consumer Electronics Show) ?",
+          "answer": "Las Vegas, aux États-Unis"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Comment appelle-t-on ce petit engin volant télécommandé permettant de prendre des photos ou des vidéos ?",
+          "answer": "Un Drone"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quel pays a été le premier à accorder la nationalité à un robot ?",
+          "answer": "L'Arabie Saoudite, en 2017, au Robot Sophia"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quel pays est réputé pour avoir les toilettes les plus high-tech au monde ?",
+          "answer": "Le Japon"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Selon Wikipédia, a 2 près, combien de modèles d'iPhone existent-ils ?",
+          "answer": "55 modèles (en Novembre 2026)"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "En 1975, qui fonde Microsoft avec Paul Allen ?",
+          "answer": "Bill Gates"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Sous quel nom est plus connu le Médium interactif par numérisation d'informations téléphoniques ?",
+          "answer": "Le Minitel"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quelle expression désigne une technologie informatique qui simule la présence physique d'un utilisateur dans un environnement artificiellement créé ?",
+          "answer": "La Réalité Virtuelle (VR)"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quel était cet appareil en forme de clé USB qui nous permettait d'écouter notre musique ?",
+          "answer": "Le Lecteur MP3"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Que dit-on à son Google Home avant de lui demander d'effectuer une tâche ?",
+          "answer": "OK Google"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Qu'est-ce qu'on insérait dans son magnétoscope pour regarder un film ?",
+          "answer": "Une cassette VHS"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quel était le nom du tout premier satellite artificiel envoyé dans l'espace en 1957 ?",
+          "answer": "Spoutnik 1"
         }
       ]
     },
@@ -984,5 +984,5 @@
   "remaining": 90,
   "answers": [],
   "history": [],
-  "version": 22
+  "version": 23
 }
