@@ -43,64 +43,64 @@
       "used": false,
       "questions": [
         {
-          "question": "",
-          "answer": ""
+          "question": "Par quelle partie de leur corps les chiens transpirent-ils principalement ?",
+          "answer": "Les Coussinets de leurs Pattes"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quel oiseau multicolore est connu pour sa capacité à imiter la voix humaine ?",
+          "answer": "Le Perroquet"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Comment appelle-t-on les moustaches du chat ?",
+          "answer": "Les Vibrisses"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Vrai ou faux : La plupart des serpents et des poissons n'ont pas de paupières.",
+          "answer": "Vrai"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "De quel continent le cochon d'Inde est-il originaire ?",
+          "answer": "L'Amérique du Sud"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "De quoi est généralement recouvert le corps des poissons ?",
+          "answer": "D'écailles"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Comment appelle-t-on l'allure la plus rapide du cheval ?",
+          "answer": "Le Galop"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Comment s'appelle le cousin sauvage du lapin domestique ?",
+          "answer": "Le Lapin de Garenne"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "En moyenne, combien d'années vit une tortue terrestre ?",
+          "answer": "Entre 60 et 80 ans"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Comment appelle-t-on le petit issu du croisement d'un âne et d'une jument ?",
+          "answer": "Un Mulet (ou une mule si c'est une femelle)"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quelle est la particularité de la queue des lézards ?",
+          "answer": "Elle peut se Détacher, puis Repousser "
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Comment appelle-t-on couramment les chats qui ne sont pas de race ?",
+          "answer": "Les Chats de Gouttière"
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quel oiseau noir est réputé pour être l'un des meilleurs imitateurs de la voix humaine ?",
+          "answer": "Le Mainate (ou martin triste, selon l'espèce) "
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Le chat Sphynx est-il dépourvu de queue ou de poils ?",
+          "answer": "De poils (il peut toutefois avoir un très fin duvet) "
         },
         {
-          "question": "",
-          "answer": ""
+          "question": "Quel animal marin possède cinq bras et peut en régénérer un lorsqu'il le perd ?",
+          "answer": "L'étoile de mer "
         }
       ]
     },
@@ -984,5 +984,5 @@
   "remaining": 90,
   "answers": [],
   "history": [],
-  "version": 2
+  "version": 3
 }
