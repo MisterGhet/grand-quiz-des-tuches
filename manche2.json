@@ -980,8 +980,8 @@
   "theme": 5,
   "player": 5,
   "streak": true,
-  "startedAt": 1794757167334,
-  "remaining": 90,
+  "startedAt": 1794757256328,
+  "remaining": 5,
   "answers": [
     true,
     false,
@@ -1027,5 +1027,5 @@
       "at": "2026-11-15T15:38:42.636Z"
     }
   ],
-  "version": 123
+  "version": 124
 }
